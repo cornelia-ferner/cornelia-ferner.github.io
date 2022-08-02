@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Günther Eibl | Cornelia Ferner</title>
+    <link>https://cornelia-ferner.github.io/de/author/gunther-eibl/</link>
+      <atom:link href="https://cornelia-ferner.github.io/de/author/gunther-eibl/index.xml" rel="self" type="application/rss+xml" />
+    <description>Günther Eibl</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>de-at</language><copyright>© 2022</copyright><lastBuildDate>Sun, 01 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cornelia-ferner.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Günther Eibl</title>
+      <link>https://cornelia-ferner.github.io/de/author/gunther-eibl/</link>
+    </image>
+    
+    <item>
+      <title>Pool Detection from Smart Metering Data with Convolutional Neural Networks</title>
+      <link>https://cornelia-ferner.github.io/de/publication/ferner19a/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://cornelia-ferner.github.io/de/publication/ferner19a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploration of the Potential of Process Mining for Intrusion Detection in Smart Metering</title>
+      <link>https://cornelia-ferner.github.io/de/publication/eibl17a/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>https://cornelia-ferner.github.io/de/publication/eibl17a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Application and Testing of Business Processes in the Energy Domain</title>
+      <link>https://cornelia-ferner.github.io/de/publication/bohmer17a/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>https://cornelia-ferner.github.io/de/publication/bohmer17a/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

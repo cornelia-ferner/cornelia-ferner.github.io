@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publikationen | Cornelia Ferner</title>
+    <link>https://cornelia-ferner.github.io/de/publication/</link>
+      <atom:link href="https://cornelia-ferner.github.io/de/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publikationen</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>de-at</language><copyright>© 2022</copyright><lastBuildDate>Wed, 27 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cornelia-ferner.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Publikationen</title>
+      <link>https://cornelia-ferner.github.io/de/publication/</link>
+    </image>
+    
+    <item>
+      <title>Captioning Bosch: A Twitter Bot</title>
+      <link>https://cornelia-ferner.github.io/de/publication/ferner22b/</link>
+      <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://cornelia-ferner.github.io/de/publication/ferner22b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Benefits from Variational Regularization in Language Models</title>
+      <link>https://cornelia-ferner.github.io/de/publication/ferner22a/</link>
+      <pubDate>Thu, 09 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://cornelia-ferner.github.io/de/publication/ferner22a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Strategic Approaches to the Use of Data Science in SMEs</title>
+      <link>https://cornelia-ferner.github.io/de/publication/ferner21a/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://cornelia-ferner.github.io/de/publication/ferner21a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatio-Temporal Machine Learning Analysis of Social Media Data and Refugee Movement Statistics</title>
+      <link>https://cornelia-ferner.github.io/de/publication/havas21a/</link>
+      <pubDate>Fri, 23 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://cornelia-ferner.github.io/de/publication/havas21a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automated Seeded Latent Dirichlet Allocation for Social Media Based Event Detection and Mapping</title>
+      <link>https://cornelia-ferner.github.io/de/publication/ferner20b/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://cornelia-ferner.github.io/de/publication/ferner20b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploratory Spatiotemporal Language Analysis of Geo-Social Network Data for Identifying Movements of Refugees</title>
+      <link>https://cornelia-ferner.github.io/de/publication/petutschnig20a/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://cornelia-ferner.github.io/de/publication/petutschnig20a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sequential IoT Data Augmentation Using Generative Adversarial Networks</title>
+      <link>https://cornelia-ferner.github.io/de/publication/tschuchnig20a/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://cornelia-ferner.github.io/de/publication/tschuchnig20a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Semi-discriminative Approach for Sub-sentence Level Topic Classification on a Small Dataset</title>
+      <link>https://cornelia-ferner.github.io/de/publication/ferner20a/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://cornelia-ferner.github.io/de/publication/ferner20a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Effectiveness of the Max Entropy Classifier for Feature Selection</title>
+      <link>https://cornelia-ferner.github.io/de/publication/schnoll19a/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://cornelia-ferner.github.io/de/publication/schnoll19a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transition to peak-load-based tariffs can be disruptive for different groups of consumers</title>
+      <link>https://cornelia-ferner.github.io/de/publication/azarova19a/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://cornelia-ferner.github.io/de/publication/azarova19a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pool Detection from Smart Metering Data with Convolutional Neural Networks</title>
+      <link>https://cornelia-ferner.github.io/de/publication/ferner19a/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://cornelia-ferner.github.io/de/publication/ferner19a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploring the impact of network tariffs on household electricity expenditures using load profiles and socio-economic characteristics</title>
+      <link>https://cornelia-ferner.github.io/de/publication/azarova18a/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>https://cornelia-ferner.github.io/de/publication/azarova18a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Information Extraction Engine for Sentiment-Topic Matching in Product Intelligence Applications</title>
+      <link>https://cornelia-ferner.github.io/de/publication/ferner17a/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>https://cornelia-ferner.github.io/de/publication/ferner17a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploration of the Potential of Process Mining for Intrusion Detection in Smart Metering</title>
+      <link>https://cornelia-ferner.github.io/de/publication/eibl17a/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>https://cornelia-ferner.github.io/de/publication/eibl17a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Network Tariff Challenge: Who Pays the Piper?</title>
+      <link>https://cornelia-ferner.github.io/de/publication/reichl17a/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>https://cornelia-ferner.github.io/de/publication/reichl17a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Application and Testing of Business Processes in the Energy Domain</title>
+      <link>https://cornelia-ferner.github.io/de/publication/bohmer17a/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>https://cornelia-ferner.github.io/de/publication/bohmer17a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ODrM* optimal multirobot path planning in low dimensional search spaces</title>
+      <link>https://cornelia-ferner.github.io/de/publication/ferner13a/</link>
+      <pubDate>Sat, 01 Jun 2013 00:00:00 +0000</pubDate>
+      <guid>https://cornelia-ferner.github.io/de/publication/ferner13a/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

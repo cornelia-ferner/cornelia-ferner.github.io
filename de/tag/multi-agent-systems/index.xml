@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>multi-agent systems | Cornelia Ferner</title>
+    <link>https://cornelia-ferner.github.io/de/tag/multi-agent-systems/</link>
+      <atom:link href="https://cornelia-ferner.github.io/de/tag/multi-agent-systems/index.xml" rel="self" type="application/rss+xml" />
+    <description>multi-agent systems</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>de-at</language><copyright>© 2022</copyright><lastBuildDate>Sat, 01 Jun 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cornelia-ferner.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>multi-agent systems</title>
+      <link>https://cornelia-ferner.github.io/de/tag/multi-agent-systems/</link>
+    </image>
+    
+    <item>
+      <title>ODrM* optimal multirobot path planning in low dimensional search spaces</title>
+      <link>https://cornelia-ferner.github.io/de/publication/ferner13a/</link>
+      <pubDate>Sat, 01 Jun 2013 00:00:00 +0000</pubDate>
+      <guid>https://cornelia-ferner.github.io/de/publication/ferner13a/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

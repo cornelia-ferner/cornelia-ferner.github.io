@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>information extraction | Cornelia Ferner</title>
+    <link>https://cornelia-ferner.github.io/de/tag/information-extraction/</link>
+      <atom:link href="https://cornelia-ferner.github.io/de/tag/information-extraction/index.xml" rel="self" type="application/rss+xml" />
+    <description>information extraction</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>de-at</language><copyright>© 2022</copyright><lastBuildDate>Fri, 01 Sep 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cornelia-ferner.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>information extraction</title>
+      <link>https://cornelia-ferner.github.io/de/tag/information-extraction/</link>
+    </image>
+    
+    <item>
+      <title>Information Extraction Engine for Sentiment-Topic Matching in Product Intelligence Applications</title>
+      <link>https://cornelia-ferner.github.io/de/publication/ferner17a/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>https://cornelia-ferner.github.io/de/publication/ferner17a/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

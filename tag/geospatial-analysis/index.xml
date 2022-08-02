@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>geospatial analysis | Cornelia Ferner</title>
+    <link>https://cornelia-ferner.github.io/tag/geospatial-analysis/</link>
+      <atom:link href="https://cornelia-ferner.github.io/tag/geospatial-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <description>geospatial analysis</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022</copyright><lastBuildDate>Fri, 23 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cornelia-ferner.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>geospatial analysis</title>
+      <link>https://cornelia-ferner.github.io/tag/geospatial-analysis/</link>
+    </image>
+    
+    <item>
+      <title>Spatio-Temporal Machine Learning Analysis of Social Media Data and Refugee Movement Statistics</title>
+      <link>https://cornelia-ferner.github.io/publication/havas21a/</link>
+      <pubDate>Fri, 23 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://cornelia-ferner.github.io/publication/havas21a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automated Seeded Latent Dirichlet Allocation for Social Media Based Event Detection and Mapping</title>
+      <link>https://cornelia-ferner.github.io/publication/ferner20b/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://cornelia-ferner.github.io/publication/ferner20b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploratory Spatiotemporal Language Analysis of Geo-Social Network Data for Identifying Movements of Refugees</title>
+      <link>https://cornelia-ferner.github.io/publication/petutschnig20a/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://cornelia-ferner.github.io/publication/petutschnig20a/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

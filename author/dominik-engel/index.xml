@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dominik Engel | Cornelia Ferner</title>
+    <link>https://cornelia-ferner.github.io/author/dominik-engel/</link>
+      <atom:link href="https://cornelia-ferner.github.io/author/dominik-engel/index.xml" rel="self" type="application/rss+xml" />
+    <description>Dominik Engel</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022</copyright><lastBuildDate>Tue, 01 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cornelia-ferner.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Dominik Engel</title>
+      <link>https://cornelia-ferner.github.io/author/dominik-engel/</link>
+    </image>
+    
+    <item>
+      <title>Transition to peak-load-based tariffs can be disruptive for different groups of consumers</title>
+      <link>https://cornelia-ferner.github.io/publication/azarova19a/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://cornelia-ferner.github.io/publication/azarova19a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploring the impact of network tariffs on household electricity expenditures using load profiles and socio-economic characteristics</title>
+      <link>https://cornelia-ferner.github.io/publication/azarova18a/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>https://cornelia-ferner.github.io/publication/azarova18a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploration of the Potential of Process Mining for Intrusion Detection in Smart Metering</title>
+      <link>https://cornelia-ferner.github.io/publication/eibl17a/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>https://cornelia-ferner.github.io/publication/eibl17a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Network Tariff Challenge: Who Pays the Piper?</title>
+      <link>https://cornelia-ferner.github.io/publication/reichl17a/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>https://cornelia-ferner.github.io/publication/reichl17a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Application and Testing of Business Processes in the Energy Domain</title>
+      <link>https://cornelia-ferner.github.io/publication/bohmer17a/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>https://cornelia-ferner.github.io/publication/bohmer17a/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

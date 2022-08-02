@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>chatbot | Cornelia Ferner</title>
+    <link>https://cornelia-ferner.github.io/tag/chatbot/</link>
+      <atom:link href="https://cornelia-ferner.github.io/tag/chatbot/index.xml" rel="self" type="application/rss+xml" />
+    <description>chatbot</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022</copyright><lastBuildDate>Tue, 01 Mar 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cornelia-ferner.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>chatbot</title>
+      <link>https://cornelia-ferner.github.io/tag/chatbot/</link>
+    </image>
+    
+    <item>
+      <title>What Does an AI Know about Arts?</title>
+      <link>https://cornelia-ferner.github.io/post/2022_boschbot/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://cornelia-ferner.github.io/post/2022_boschbot/</guid>
+      <description>&lt;p&gt;The artworks by Dutch painter Hieronymus Bosch are well known for their incredible wealth of details.
+A popular Twitter bot posts small segments of the digitized paintings, thus relieving their density and making them more accessible. 
+My Twitter bot &lt;a href=&#34;https://twitter.com/CaptionBoschBot&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CaptioningBoschBot&lt;/a&gt; reacts to these out-of-context image segments and uses them as input for an encoder-decoder model to generate captions that interpret the painted scenes. The encoder-decoder model was trained on photos and realistic pictures and doesn&amp;rsquo;t possess the vocabulary to analyze art. The resulting captions still reveal curious interpretations of otherworldly details.
+It uses the out-of-context painting segments as input for an encoder-decoder model to generate captions that interpret the painted objects. 
+The generated captions are again posted on Twitter to encourage discussions about Bosch’s masterpieces and the AI technology in general.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Research Project &#34;Chatbots for Higher Education&#34; Starts</title>
+      <link>https://cornelia-ferner.github.io/post/2022_schnatterbuchse/</link>
+      <pubDate>Wed, 23 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://cornelia-ferner.github.io/post/2022_schnatterbuchse/</guid>
+      <description>&lt;h3 id=&#34;research-project-chatbots-for-higher-education-starts&#34;&gt;Research Project &amp;ldquo;Chatbots for Higher Education&amp;rdquo; Starts&lt;/h3&gt;
+&lt;p&gt;In March 2022, the interdisciplinary research project &amp;ldquo;Chatbots for Higher Education&amp;rdquo; starts, in which I and Prof. Dr. Eva Lienbacher (Business degree program) are exploring ways of applying chatbots for educational purposes.
+Chatbots can be applied to support with different teaching tasks, such as assisting with FAQs, mentoring or the simulation of expert interviews in professional settings, where the chatbot plays the role of customers, patients etc.&lt;/p&gt;
+&lt;p&gt;During a two year period, two proof-of-concepts and a use case study will be developed and implemented together with our students.
+The target audience primarily are students from four of our degree programs in engineering and business and social sciences.
+In transfer workshops, we will share our knowledge with a broader audience.
+The findings will also help in establishing new academic partnerhsips and acquire funding for new research projects.&lt;/p&gt;
+&lt;p&gt;The project is funded by SUAS&amp;rsquo;s &amp;ldquo;Zukunftsfonds&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;More information: &lt;a href=&#34;https://its.fh-salzburg.ac.at/forschung/forschungsprojekte/projektseite/schnatterbuechse/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ITS department&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
