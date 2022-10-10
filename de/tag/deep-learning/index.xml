@@ -1,1 +1,48 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>deep learning | Cornelia Ferner</title><link>https://cornelia-ferner.github.io/de/tag/deep-learning/</link><atom:link href="https://cornelia-ferner.github.io/de/tag/deep-learning/index.xml" rel="self" type="application/rss+xml"/><description>deep learning</description><generator>Wowchemy (https://wowchemy.com)</generator><language>de-at</language><copyright>© 2022</copyright><lastBuildDate>Wed, 27 Jul 2022 00:00:00 +0000</lastBuildDate><image><url>https://cornelia-ferner.github.io/media/icon_hu5335208573ec51f95dfe6e3211008f96_29473_512x512_fill_lanczos_center_3.png</url><title>deep learning</title><link>https://cornelia-ferner.github.io/de/tag/deep-learning/</link></image><item><title>Captioning Bosch: A Twitter Bot</title><link>https://cornelia-ferner.github.io/de/publication/ferner22b/</link><pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate><guid>https://cornelia-ferner.github.io/de/publication/ferner22b/</guid><description/></item><item><title>Benefits from Variational Regularization in Language Models</title><link>https://cornelia-ferner.github.io/de/publication/ferner22a/</link><pubDate>Thu, 09 Jun 2022 00:00:00 +0000</pubDate><guid>https://cornelia-ferner.github.io/de/publication/ferner22a/</guid><description/></item><item><title>Sequential IoT Data Augmentation Using Generative Adversarial Networks</title><link>https://cornelia-ferner.github.io/de/publication/tschuchnig20a/</link><pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate><guid>https://cornelia-ferner.github.io/de/publication/tschuchnig20a/</guid><description/></item><item><title>Pool Detection from Smart Metering Data with Convolutional Neural Networks</title><link>https://cornelia-ferner.github.io/de/publication/ferner19a/</link><pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate><guid>https://cornelia-ferner.github.io/de/publication/ferner19a/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>deep learning | Cornelia Ferner</title>
+    <link>https://cornelia-ferner.github.io/de/tag/deep-learning/</link>
+      <atom:link href="https://cornelia-ferner.github.io/de/tag/deep-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>deep learning</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>de-at</language><copyright>© 2022</copyright><lastBuildDate>Wed, 27 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cornelia-ferner.github.io/media/icon_hu5335208573ec51f95dfe6e3211008f96_29473_512x512_fill_lanczos_center_3.png</url>
+      <title>deep learning</title>
+      <link>https://cornelia-ferner.github.io/de/tag/deep-learning/</link>
+    </image>
+    
+    <item>
+      <title>Captioning Bosch: A Twitter Bot</title>
+      <link>https://cornelia-ferner.github.io/de/publication/ferner22b/</link>
+      <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://cornelia-ferner.github.io/de/publication/ferner22b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Benefits from Variational Regularization in Language Models</title>
+      <link>https://cornelia-ferner.github.io/de/publication/ferner22a/</link>
+      <pubDate>Thu, 09 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://cornelia-ferner.github.io/de/publication/ferner22a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sequential IoT Data Augmentation Using Generative Adversarial Networks</title>
+      <link>https://cornelia-ferner.github.io/de/publication/tschuchnig20a/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://cornelia-ferner.github.io/de/publication/tschuchnig20a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pool Detection from Smart Metering Data with Convolutional Neural Networks</title>
+      <link>https://cornelia-ferner.github.io/de/publication/ferner19a/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://cornelia-ferner.github.io/de/publication/ferner19a/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

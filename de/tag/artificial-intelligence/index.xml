@@ -1,4 +1,28 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>artificial intelligence | Cornelia Ferner</title><link>https://cornelia-ferner.github.io/de/tag/artificial-intelligence/</link><atom:link href="https://cornelia-ferner.github.io/de/tag/artificial-intelligence/index.xml" rel="self" type="application/rss+xml"/><description>artificial intelligence</description><generator>Wowchemy (https://wowchemy.com)</generator><language>de-at</language><copyright>© 2022</copyright><lastBuildDate>Tue, 01 Mar 2022 00:00:00 +0000</lastBuildDate><image><url>https://cornelia-ferner.github.io/media/icon_hu5335208573ec51f95dfe6e3211008f96_29473_512x512_fill_lanczos_center_3.png</url><title>artificial intelligence</title><link>https://cornelia-ferner.github.io/de/tag/artificial-intelligence/</link></image><item><title>Was versteht eine KI von Kunst?</title><link>https://cornelia-ferner.github.io/de/post/2022_boschbot/</link><pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate><guid>https://cornelia-ferner.github.io/de/post/2022_boschbot/</guid><description>&lt;p>Die Kunstwerke des niederländischen Malers Hieronymus Bosch sind weltberühmt für ihren unglaublichen Detailreichtum. Ein populärer Twitter-Bot veröffentlicht regelmäßig kleine Ausschnitte aus den digitalisierten Gemälden und erlaubt so einen völlig neuen Zugang zu den überdimensionalen Werken.
-Mein Twitter-Bot &lt;a href="https://twitter.com/CaptionBoschBot" target="_blank" rel="noopener">CaptioningBoschBot&lt;/a> greift diese aus dem Kontext gerissenen Bilder auf und verwendet sie als Input für ein Encoder-Decoder-Modell, das Bildbeschreibungen generiert und so das Gezeigte interpretiert.
-Obwohl das Modell auf realistischen Fotos trainiert wurde und nicht über den entsprechenden Wortschatz verfügt, um Kunst zu analysieren, kommen verblüffende Interpretationen der Gemäldedetails ans Licht.
-Die generierten Bildbeschreibungen werden wiederum auf Twitter gepostet, um eine Diskussion über Boschs Meisterwerk und KI-Technologien anzuregen.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>artificial intelligence | Cornelia Ferner</title>
+    <link>https://cornelia-ferner.github.io/de/tag/artificial-intelligence/</link>
+      <atom:link href="https://cornelia-ferner.github.io/de/tag/artificial-intelligence/index.xml" rel="self" type="application/rss+xml" />
+    <description>artificial intelligence</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>de-at</language><copyright>© 2022</copyright><lastBuildDate>Tue, 01 Mar 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cornelia-ferner.github.io/media/icon_hu5335208573ec51f95dfe6e3211008f96_29473_512x512_fill_lanczos_center_3.png</url>
+      <title>artificial intelligence</title>
+      <link>https://cornelia-ferner.github.io/de/tag/artificial-intelligence/</link>
+    </image>
+    
+    <item>
+      <title>Was versteht eine KI von Kunst?</title>
+      <link>https://cornelia-ferner.github.io/de/post/2022_boschbot/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://cornelia-ferner.github.io/de/post/2022_boschbot/</guid>
+      <description>&lt;p&gt;Die Kunstwerke des niederländischen Malers Hieronymus Bosch sind weltberühmt für ihren unglaublichen Detailreichtum. Ein populärer Twitter-Bot veröffentlicht regelmäßig kleine Ausschnitte aus den digitalisierten Gemälden und erlaubt so einen völlig neuen Zugang zu den überdimensionalen Werken. 
+Mein Twitter-Bot &lt;a href=&#34;https://twitter.com/CaptionBoschBot&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CaptioningBoschBot&lt;/a&gt; greift diese aus dem Kontext gerissenen Bilder auf und verwendet sie als Input für ein Encoder-Decoder-Modell, das Bildbeschreibungen generiert und so das Gezeigte interpretiert. 
+Obwohl das Modell auf realistischen Fotos trainiert wurde und nicht über den entsprechenden Wortschatz verfügt, um Kunst zu analysieren, kommen verblüffende Interpretationen der Gemäldedetails ans Licht. 
+Die generierten Bildbeschreibungen werden wiederum auf Twitter gepostet, um eine Diskussion über Boschs Meisterwerk und KI-Technologien anzuregen.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,142 +1,279 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>data science | Cornelia Ferner</title><link>https://cornelia-ferner.github.io/de/tag/data-science/</link><atom:link href="https://cornelia-ferner.github.io/de/tag/data-science/index.xml" rel="self" type="application/rss+xml"/><description>data science</description><generator>Wowchemy (https://wowchemy.com)</generator><language>de-at</language><copyright>© 2022</copyright><lastBuildDate>Wed, 23 Feb 2022 00:00:00 +0000</lastBuildDate><image><url>https://cornelia-ferner.github.io/media/icon_hu5335208573ec51f95dfe6e3211008f96_29473_512x512_fill_lanczos_center_3.png</url><title>data science</title><link>https://cornelia-ferner.github.io/de/tag/data-science/</link></image><item><title>Forschungsprojekt "Schnatterbüchse - Chatbots in der Lehre" startet</title><link>https://cornelia-ferner.github.io/de/post/2022_schnatterbuchse/</link><pubDate>Wed, 23 Feb 2022 00:00:00 +0000</pubDate><guid>https://cornelia-ferner.github.io/de/post/2022_schnatterbuchse/</guid><description>&lt;p>Im März 2022 startet das interdisziplinäre Forschungsprojekt “Schnatterbüchse - Chatbots in der Lehre”, in dem ich mit FH-Prof. Dr. Eva Lienbacher (Studiengang Betriebswirtschaft) der Frage nachgehe, wie Chatbots in der Lehre sinnvoll eingesetzt werden können.
-Grundsätzlich können Chatbots in der Lehre unterschiedliche Aufgaben übernehmen, wie bspw. die Beantwortung häufiger Fragen, Mentoring-Aktivitäten oder auch die Simulation von Expert*innen als Gegenüber in (beruflichen) Situationen, in denen der Chatbot z.B. die Rolle von Kund*innen, Patient*innen etc. einnimmt.&lt;/p>
-&lt;p>Gemeinsam mit Studierenden werden während der Projektlaufzeit von zwei Jahren zwei Demonstratoren und eine Fallstudie für den Einsatz in der Lehre entwickelt und erprobt.
-Das interdisziplinäre Projekt adressiert im ersten Durchlauf als primäre Zielgruppe Studierende aus vier Studiengängen der Ingenieurwissenschaft sowie der Sozial- und Wirtschaftswissenschaften.
-Das gesammelte Know-how soll durch Workshops einem breiteren Zielpublikum näher gebracht werden.
-Darüber hinaus sollen die gesammelten Erkenntnisse als Grundlage für neue Forschungsprojekte und Hochschulpartnerschaften dienen.&lt;/p>
-&lt;p>Das Projekt wird vom Zukunftsfonds der FH Salzburg gefördert.&lt;/p>
-&lt;p>Weitere Informationen: &lt;a href="https://its.fh-salzburg.ac.at/forschung/forschungsprojekte/projektseite/schnatterbuechse/" target="_blank" rel="noopener">Studiengang ITS&lt;/a>&lt;/p></description></item><item><title>Präsentation der Publikation: Strategic Approaches to the Use of Data Science in SMEs</title><link>https://cornelia-ferner.github.io/de/post/2021_idsc/</link><pubDate>Thu, 21 Oct 2021 14:50:00 +0100</pubDate><guid>https://cornelia-ferner.github.io/de/post/2021_idsc/</guid><description>&lt;h3 id="strategic-approaches-to-the-use-of-data-science-in-smes">Strategic Approaches to the Use of Data Science in SMEs&lt;/h3>
-&lt;p>The potential of data analytics and modeling, especially in the context of digital transformation,
-is well known and seen as an opportunity to increase competitiveness and innovation in companies.
-However, the technical and organizational implementation of these methods poses challenges specifically for SMEs.
-A regional multi-case study explores the causes and exhibits patterns that suggest differentiated recommendations for action.
-Awareness of the diverse limitations and challenges can help all players involved – companies, universities and governmental organizations –
-to design future projects in an even more targeted manner.&lt;/p>
-&lt;p>&lt;em>Article Abstract&lt;/em>&lt;/p>
-&lt;p>Der Vortrag wurde &lt;a href="https://idsc.at/idsc21-keynotes-and-sessions-day-2/" target="_blank" rel="noopener">aufgezeichnet&lt;/a>.&lt;/p></description></item><item><title>Strategic Approaches to the Use of Data Science in SMEs</title><link>https://cornelia-ferner.github.io/de/publication/ferner21a/</link><pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate><guid>https://cornelia-ferner.github.io/de/publication/ferner21a/</guid><description/></item><item><title>Workshop: Data Analytics | Excel war gestern!</title><link>https://cornelia-ferner.github.io/de/post/2020_ditact/</link><pubDate>Thu, 10 Sep 2020 00:00:00 +0000</pubDate><guid>https://cornelia-ferner.github.io/de/post/2020_ditact/</guid><description>&lt;h3 id="data-analytics--excel-war-gestern">Data Analytics | Excel war gestern!&lt;/h3>
-&lt;p>Daten analysieren, aggregieren und visualisieren - für all das ist Excel oft das Programm der Wahl.
-In diesem Kurs lernen die Teilnehmerinnen, welche Möglichkeiten zur Datenanalyse die Programmiersprache
-Python bietet und welche Funktionalitäten darüber hinaus geboten werden:&lt;/p>
-&lt;ul>
-&lt;li>Daten einlesen und darstellen&lt;/li>
-&lt;li>Daten säubern und normalisieren&lt;/li>
-&lt;li>statistische Kennzahlen berechnen&lt;/li>
-&lt;li>Gruppieren und Aggregieren&lt;/li>
-&lt;li>Datenvisualisierung&lt;/li>
-&lt;/ul>
-&lt;p>Vortrag für angemeldete Teilnehmerinnen im Rahmen der &lt;a href="https://ditact.ac.at/" target="_blank" rel="noopener">Ditact 2020&lt;/a>.&lt;/p></description></item><item><title>The Effectiveness of the Max Entropy Classifier for Feature Selection</title><link>https://cornelia-ferner.github.io/de/publication/schnoll19a/</link><pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate><guid>https://cornelia-ferner.github.io/de/publication/schnoll19a/</guid><description/></item><item><title>Transition to peak-load-based tariffs can be disruptive for different groups of consumers</title><link>https://cornelia-ferner.github.io/de/publication/azarova19a/</link><pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate><guid>https://cornelia-ferner.github.io/de/publication/azarova19a/</guid><description/></item><item><title>Data Science: Python oder R?</title><link>https://cornelia-ferner.github.io/de/post/2019_sankey/</link><pubDate>Thu, 26 Sep 2019 13:44:25 +0100</pubDate><guid>https://cornelia-ferner.github.io/de/post/2019_sankey/</guid><description>&lt;p>&lt;strong>Wenn es nach Kaggle-Nutzer*innen geht: Welche Programmiersprache ist führend im Bereich Data Sciene wenn es um die Häufigkeit der Nutzung und der Empfehlungen geht?&lt;/strong>&lt;/p>
-&lt;p>2018 wurde die &lt;a href="kaggle.com">Kaggle&lt;/a> Nutzergruppe nach ihren bevorzugten Data Science Methoden und Werkzeugen sowie ihre Erfahrungen damit befragt. Unglaubliche 23860 Nutzer*innen weltweit haben geantwortet. The folgenden Analysen basieren auf dem &lt;a href="https://www.kaggle.com/kaggle/kaggle-survey-2018" target="_blank" rel="noopener">öffentlich verfügbaren Datensatz&lt;/a>:&lt;/p>
-&lt;p>Python oder R? Diese Frage hat das Potential, in lebhafte, kontroversielle Diskussionen auszuarten, wie z.B. auf &lt;a href="https://medium.com/@data_driven/python-vs-r-for-data-science-and-the-winner-is-3ebb1a968197" target="_blank" rel="noopener">medium&lt;/a> oder &lt;a href="https://www.quora.com/Which-is-the-right-place-to-start-for-AI-ML-Data-science-career-Python-or-R-or-something-else" target="_blank" rel="noopener">quora&lt;/a> zu sehen ist. Oder kommt vielleicht noch eine dritte Programmiersprache ins Spiel? Kaggler*innen zumindest geben eine ziemlich eindeutige Antwort&amp;hellip;&lt;/p>
-&lt;h3 id="python-wird-am-häufigsten-benutzt">Python wird am häufigsten benutzt&lt;/h3>
-&lt;p>Gefragt nach der einen, am häufigsten benutzten Programmiersprache, antworten 15222 der Befragten, nämlich 53.7%, mit Python.&lt;/p>
-&lt;p>&lt;em>8637 von 23860 haben diese Frage nicht beantwortet.&lt;/em>&lt;/p>
-&lt;html>
-&lt;head>&lt;meta charset="utf-8" />&lt;/head>
-&lt;body>
-&lt;div>
-&lt;script type="text/javascript">window.PlotlyConfig = {MathJaxConfig: 'local'};&lt;/script>
-&lt;script src="https://cdn.plot.ly/plotly-latest.min.js">&lt;/script>
-&lt;div id="6925a285-4aa6-41c5-a1bc-22f524468b83" class="plotly-graph-div" style="height:500px; width:750px;">&lt;/div>
-&lt;script type="text/javascript">
-window.PLOTLYENV=window.PLOTLYENV || {};
-if (document.getElementById("6925a285-4aa6-41c5-a1bc-22f524468b83")) {
-Plotly.newPlot(
-'6925a285-4aa6-41c5-a1bc-22f524468b83',
-[{"marker": {"color": ["blue", "darkgrey", "darkgrey", "darkgrey", "darkgrey", "darkgrey", "darkgrey", "darkgrey", "darkgrey", "darkgrey", "darkgrey", "darkgrey", "darkgrey", "darkgrey", "darkgrey", "darkgrey", "darkgrey"]}, "opacity": 0.8, "type": "bar", "value_format": ".2f", "x": ["Python", "R", "SQL", "Java", "C/C++", "C#/.NET", "Javascript/Typescript", "MATLAB", "SAS/STATA", "PHP", "Visual Basic/VBA", "Other", "Scala", "Bash", "Ruby", "Go", "Julia"], "y": [0.5373801077387991, 0.1344107213243989, 0.07955590592563395, 0.059322033898305086, 0.04854815398764945, 0.02837997635001971, 0.026803310997240835, 0.023321508343187494, 0.014978320851399291, 0.012547628432531861, 0.008868742609381159, 0.007686243594797004, 0.006963605308106688, 0.003875968992248062, 0.003613191433451583, 0.003021941926159506, 0.0007226382866903166]}],
-{"autosize": true, "font": {"size": 10}, "height": 500, "title": "Programming Language Used Most Often", "width": 750, "yaxis": {"title": "(Relative) Number of Answers"}},
-{"scrollZoom": false, "editable": false, "displaylogo": true, "toImageButtonOptions": {"format": "png", "filename": "kaggle_2018_primary_language_cferner", "height": null, "width": null}, "modeBarButtonsToRemove": ["lasso2d", "select2d", "hoverClosestCartesian", "hoverCompareCartesian"], "responsive": true}
-)
-};
-&lt;/script>
-&lt;/div>
-&lt;/body>
-&lt;/html>
-&lt;h3 id="python-wird-auch-von-nutzerinnen-anderer-programmiersprachen-empfohlen">Python wird auch von Nutzer*innen anderer Programmiersprachen empfohlen&lt;/h3>
-&lt;p>Sogar Teilnehmer*innen, die Python nicht als primäre Sprache verwenden, empfiehlt ein großer Anteil Data Science Aspirant*innen Python als die erste Sprache, die es zu erlernen gilt.&lt;/p>
-&lt;html>
-&lt;head>&lt;meta charset="utf-8" />&lt;/head>
-&lt;body>
-&lt;div>
-&lt;script type="text/javascript">window.PlotlyConfig = {MathJaxConfig: 'local'};&lt;/script>
-&lt;script src="https://cdn.plot.ly/plotly-latest.min.js">&lt;/script>
-&lt;div id="48b96333-d2d2-4297-9493-65528da8f1d8" class="plotly-graph-div" style="height:500px; width:750px;">&lt;/div>
-&lt;script type="text/javascript">
-window.PLOTLYENV=window.PLOTLYENV || {};
-if (document.getElementById("48b96333-d2d2-4297-9493-65528da8f1d8")) {
-Plotly.newPlot(
-'48b96333-d2d2-4297-9493-65528da8f1d8',
-[{"marker": {"color": ["blue", "darkgrey", "darkgrey", "darkgrey", "darkgrey", "darkgrey", "darkgrey", "darkgrey", "darkgrey", "darkgrey", "darkgrey", "darkgrey", "darkgrey"]}, "opacity": 0.8, "type": "bar", "value_format": ".2f", "x": ["Python", "R", "SQL", "C++", "MATLAB", "Java", "Other", "None", "Scala", "Javascript", "SAS", "VBA", "Go"], "y": [0.7547902916755376, 0.12465403449010007, 0.04864807323823717, 0.018043431977858206, 0.01362571854375133, 0.009793485203321269, 0.00856929955290611, 0.00702576112412178, 0.0039386842665531194, 0.0038322333404300617, 0.003672556951245476, 0.002022567596338088, 0.0013838620395997445]}],
-{"autosize": true, "font": {"size": 10}, "height": 500, "title": "Programming Language Suggested as First Language to Learn", "width": 750, "yaxis": {"title": "(Relative) Number of Answers"}},
-{"scrollZoom": false, "editable": false, "displaylogo": true, "toImageButtonOptions": {"format": "png", "filename": "kaggle_2018_primary_language_cferner", "height": null, "width": null}, "modeBarButtonsToRemove": ["lasso2d", "select2d", "hoverClosestCartesian", "hoverCompareCartesian"], "responsive": true}
-)
-};
-&lt;/script>
-&lt;/div>
-&lt;/body>
-&lt;/html>
-&lt;p>&lt;em>Wurde eine dieser zwei Fragen nicht beantwortet, zählt das als &amp;ldquo;None&amp;rdquo;. Teilnehme*innen, die beide Fragen nicht beantwortet haben, wurden nicht gezählt (n=5052). Insgesamt wurden also 18807 Antworten gezählt.&lt;/em>&lt;/p>
-&lt;h3 id="mehrheit-empfiehlt-python-als-erste-programmiersprache">Mehrheit empfiehlt Python als erste Programmiersprache&lt;/h3>
-&lt;p>Python wird von 75.48% der 18788 Teilnehmer*innen als erste Sprache, die es beim Einstieg in das Thema Data Science zu erlernen gilt, empfohlen.&lt;/p>
-&lt;p>&lt;em>5071 Teilnehmer*innen habe keine Antwort gegeben.&lt;/em>&lt;/p>
-&lt;html>
-&lt;head>&lt;meta charset="utf-8" />&lt;/head>
-&lt;body>
-&lt;div>
-&lt;script type="text/javascript">window.PlotlyConfig = {MathJaxConfig: 'local'};&lt;/script>
-&lt;script src="https://cdn.plot.ly/plotly-latest.min.js">&lt;/script>
-&lt;div id="d2078e48-00e1-4a0c-b51b-674e322015fa" class="plotly-graph-div" style="height:750px; width:750px;">&lt;/div>
-&lt;script type="text/javascript">
-window.PLOTLYENV=window.PLOTLYENV || {};
-if (document.getElementById("d2078e48-00e1-4a0c-b51b-674e322015fa")) {
-Plotly.newPlot(
-'d2078e48-00e1-4a0c-b51b-674e322015fa',
-[{"link": {"source": [0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 3, 3, 3, 3, 3, 3, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 6, 6, 6, 6, 7, 7, 7, 7, 7, 7, 7, 7, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 9, 9, 9, 9, 9, 9, 10, 10, 10, 10, 10, 10, 10, 10, 10, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 13, 13, 13, 13, 13, 13, 13, 13, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 16, 16, 16, 16, 16, 16, 16, 16, 17, 17, 17, 17, 17, 17, 17, 17, 17], "target": [18, 20, 22, 23, 24, 25, 26, 28, 18, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 18, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 18, 19, 21, 23, 25, 26, 18, 19, 20, 21, 22, 23, 24, 25, 26, 28, 29, 30, 18, 19, 20, 21, 22, 23, 24, 25, 26, 28, 29, 22, 24, 25, 26, 18, 22, 23, 24, 25, 26, 28, 29, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 23, 24, 25, 26, 27, 28, 18, 19, 20, 21, 22, 24, 25, 26, 28, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 18, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 19, 20, 21, 22, 24, 25, 28, 29, 18, 20, 22, 23, 24, 25, 26, 27, 28, 30, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 18, 20, 22, 24, 25, 26, 28, 29, 18, 20, 22, 23, 25, 26, 27, 28, 30], "value": [2, 1, 1, 1, 4, 43, 4, 3, 11, 5, 2, 9, 3, 4, 346, 33, 3, 12, 4, 52, 15, 1, 16, 7, 4, 582, 49, 2, 8, 3, 1, 8, 1, 1, 32, 3, 13, 2, 57, 6, 15, 13, 6, 686, 74, 20, 10, 1, 2, 1, 4, 21, 3, 3, 6, 333, 19, 14, 2, 1, 3, 6, 1, 9, 65, 4, 5, 236, 30, 5, 1, 60, 4, 32, 16, 41, 76, 47, 2697, 418, 20, 147, 13, 14, 2, 8, 84, 18, 2, 3, 4, 1, 4, 8, 8, 2, 139, 19, 6, 152, 7, 46, 11, 83, 19, 49, 7161, 386, 7, 230, 21, 8, 23, 9, 2, 6, 9, 14, 828, 1028, 7, 112, 3, 5, 1, 1, 1, 1, 1, 46, 3, 1, 3, 1, 1, 2, 3, 122, 56, 21, 18, 1, 2, 2, 6, 3, 4, 9, 3, 682, 169, 6, 318, 5, 2, 2, 2, 1, 2, 78, 6, 4, 11, 3, 1, 1, 2, 80, 29, 1, 11, 7]}, "node": {"color": ["blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue", "blue"], "label": ["Bash", "C#/.NET", "C/C++", "Go", "Java", "Javascript/Typescript", "Julia", "MATLAB", "None", "Other", "PHP", "Python", "R", "Ruby", "SAS/STATA", "SQL", "Scala", "Visual Basic/VBA", "C++", "Go", "Java", "Javascript", "MATLAB", "None", "Other", "Python", "R", "SAS", "SQL", "Scala", "VBA"], "line": {"color": "black", "width": 0.5}, "pad": 10, "thickness": 30}, "orientation": "h", "type": "sankey", "valueformat": ".0f"}],
-{"autosize": true, "font": {"size": 10}, "height": 750, "title": "Programming Language Used vs. Suggested", "width": 750},
-{"scrollZoom": false, "editable": false, "displaylogo": true, "toImageButtonOptions": {"format": "png", "filename": "kaggle_2018_primary_language_cferner", "height": null, "width": null}, "modeBarButtonsToRemove": ["lasso2d", "select2d", "hoverClosestCartesian", "hoverCompareCartesian"], "responsive": true}
-)
-};
-&lt;/script>
-&lt;/div>
-&lt;/body>
-&lt;/html>
-&lt;h3 id="python-zunehmend-populär">Python zunehmend populär&lt;/h3>
-&lt;p>Pythons Popularität hat zugenommen, wie ein Blick auf die Erfahrung der Teilnehmer*innen im Bereich Data Science zeigt.
-Während &amp;ldquo;nur&amp;rdquo; 39.18% der Teilnehmer*innen mit einer Erfahrung im Bereich Data Science von 30-40 Jahren Python als am häufigsten verwendete Sprache angeben, erhöht sich dieser Wert auf 59.89% bei den Teilnehmer*innen mit einer Erfahrung von 1-2 Jahren. Neueinsteiger*innen (&amp;lt;1 Jahr Erfahrung oder noch keine Programmiererfahrung im Bereich Datenanalyse) mit Programmiererfahrung aus anderen Bereichen weisen eine diversere Palette an häufig verwendeten Sprachen auf - aber immer noch mit Python als Vorreiter.&lt;/p>
-&lt;p>*5326 Teilnehmer*innen haben nicht geantwortet. 41 Teilnehmer*innen die noch nie Code geschrieben haben und es auch nicht lernen wollen (&lt;code>have never written code and do not want to learn&lt;/code>) &lt;em>wurden auch nicht gezählt.&lt;/em>&lt;/p>
-&lt;html>
-&lt;head>&lt;meta charset="utf-8" />&lt;/head>
-&lt;body>
-&lt;div>
-&lt;script type="text/javascript">window.PlotlyConfig = {MathJaxConfig: 'local'};&lt;/script>
-&lt;script src="https://cdn.plot.ly/plotly-latest.min.js">&lt;/script>
-&lt;div id="f0b5ecab-c3cc-43f3-8341-2f931df1afb9" class="plotly-graph-div" style="height:600px; width:750px;">&lt;/div>
-&lt;script type="text/javascript">
-window.PLOTLYENV=window.PLOTLYENV || {};
-if (document.getElementById("f0b5ecab-c3cc-43f3-8341-2f931df1afb9")) {
-Plotly.newPlot(
-'f0b5ecab-c3cc-43f3-8341-2f931df1afb9',
-[{"marker": {"color": ["darkgrey", "darkgrey", "darkgrey", "darkgrey", "darkgrey", "darkgrey", "darkgrey", "darkgrey", "darkgrey", "darkgrey", "blue", "darkgrey", "darkgrey", "darkgrey", "darkgrey", "darkgrey", "darkgrey"]}, "opacity": 0.8, "type": "bar", "value_format": ".2f", "x": ["Bash", "C#/.NET", "C/C++", "Go", "Java", "Javascript/Typescript", "Julia", "MATLAB", "Other", "PHP", "Python", "R", "Ruby", "SAS/STATA", "SQL", "Scala", "Visual Basic/VBA"], "y": [0.00498533724340176, 0.03841642228739003, 0.0780058651026393, 0.0026392961876832845, 0.09296187683284457, 0.04457478005865103, 0.0, 0.015542521994134898, 0.00997067448680352, 0.01788856304985337, 0.5363636363636364, 0.08797653958944282, 0.00498533724340176, 0.004398826979472141, 0.05043988269794721, 0.004398826979472141, 0.0064516129032258064]}],
-{"autosize": true, "font": {"size": 10}, "height": 600, "title": "Programming Language Used Most Often with Data Science Experience of &lt; 1 Year (n=4542)", "updatemenus": [{"buttons": [{"args": [{"x": [["Bash", "C#/.NET", "C/C++", "Go", "Java", "Javascript/Typescript", "Julia", "MATLAB", "Other", "PHP", "Python", "R", "Ruby", "SAS/STATA", "SQL", "Scala", "Visual Basic/VBA"]], "y": [[0.00498533724340176, 0.03841642228739003, 0.0780058651026393, 0.0026392961876832845, 0.09296187683284457, 0.04457478005865103, 0.0, 0.015542521994134898, 0.00997067448680352, 0.01788856304985337, 0.5363636363636364, 0.08797653958944282, 0.00498533724340176, 0.004398826979472141, 0.05043988269794721, 0.004398826979472141, 0.0064516129032258064]]}, {"title": "Programming Language Used Most Often with Data Science Experience of &lt; 1 year (n=4542)"}], "label": "&lt; 1 year", "method": "update"}, {"args": [{"x": [["Bash", "C#/.NET", "C/C++", "Go", "Java", "Javascript/Typescript", "Julia", "MATLAB", "Other", "PHP", "Python", "R", "Ruby", "SAS/STATA", "SQL", "Scala", "Visual Basic/VBA"]], "y": [[0.0013761467889908258, 0.023853211009174313, 0.0426605504587156, 0.0016055045871559634, 0.05527522935779817, 0.02706422018348624, 0.00022935779816513763, 0.019724770642201836, 0.005733944954128441, 0.01055045871559633, 0.5988532110091743, 0.12178899082568807, 0.0027522935779816515, 0.008944954128440367, 0.0694954128440367, 0.004357798165137615, 0.005733944954128441]]}, {"title": "Programming Language Used Most Often with Data Science Experience of 1-2 years (n=5359)"}], "label": "1-2 years", "method": "update"}, {"args": [{"x": [["Bash", "C#/.NET", "C/C++", "Go", "Java", "Javascript/Typescript", "Julia", "MATLAB", "Other", "PHP", "Python", "R", "Ruby", "SAS/STATA", "SQL", "Scala", "Visual Basic/VBA"]], "y": [[0.0026041666666666665, 0.015046296296296295, 0.03125, 0.0026041666666666665, 0.03674768518518518, 0.017939814814814815, 0.0014467592592592592, 0.025752314814814815, 0.004340277777777778, 0.010416666666666666, 0.5567129629629629, 0.16898148148148148, 0.0026041666666666665, 0.015335648148148149, 0.08796296296296297, 0.01099537037037037, 0.009259259259259259]]}, {"title": "Programming Language Used Most Often with Data Science Experience of 3-5 years (n=4023)"}], "label": "3-5 years", "method": "update"}, {"args": [{"x": [["Bash", "C#/.NET", "C/C++", "Go", "Java", "Javascript/Typescript", "Julia", "MATLAB", "Other", "PHP", "Python", "R", "Ruby", "SAS/STATA", "SQL", "Scala", "Visual Basic/VBA"]], "y": [[0.006900212314225053, 0.021231422505307854, 0.028662420382165606, 0.006369426751592357, 0.029193205944798302, 0.008492569002123142, 0.0010615711252653928, 0.029723991507430998, 0.004777070063694267, 0.010084925690021231, 0.5148619957537155, 0.16719745222929935, 0.002653927813163482, 0.03078556263269639, 0.11677282377919321, 0.009023354564755838, 0.012208067940552018]]}, {"title": "Programming Language Used Most Often with Data Science Experience of 5-10 years (n=2145)"}], "label": "5-10 years", "method": "update"}, {"args": [{"x": [["Bash", "C#/.NET", "C/C++", "Go", "Java", "Javascript/Typescript", "Julia", "MATLAB", "Other", "PHP", "Python", "R", "Ruby", "SAS/STATA", "SQL", "Scala", "Visual Basic/VBA"]], "y": [[0.006042296072507553, 0.03625377643504532, 0.03423967774420947, 0.005035246727089627, 0.04028197381671702, 0.019133937562940583, 0.0030211480362537764, 0.023162134944612285, 0.012084592145015106, 0.007049345417925478, 0.4350453172205438, 0.18529707955689828, 0.005035246727089627, 0.04028197381671702, 0.11983887210473314, 0.011077542799597181, 0.017119838872104734]]}, {"title": "Programming Language Used Most Often with Data Science Experience of 10-20 years (n=1102)"}], "label": "10-20 years", "method": "update"}, {"args": [{"x": [["Bash", "C#/.NET", "C/C++", "Go", "Java", "Javascript/Typescript", "Julia", "MATLAB", "Other", "PHP", "Python", "R", "Ruby", "SAS/STATA", "SQL", "Scala", "Visual Basic/VBA"]], "y": [[0.014134275618374558, 0.04946996466431095, 0.0353356890459364, 0.007067137809187279, 0.045936395759717315, 0.0353356890459364, 0.0, 0.045936395759717315, 0.024734982332155476, 0.0035335689045936395, 0.4134275618374558, 0.20141342756183744, 0.0035335689045936395, 0.0353356890459364, 0.0636042402826855, 0.01060070671378092, 0.01060070671378092]]}, {"title": "Programming Language Used Most Often with Data Science Experience of 20-30 years (n=321)"}], "label": "20-30 years", "method": "update"}, {"args": [{"x": [["Bash", "C#/.NET", "C/C++", "Go", "Java", "Javascript/Typescript", "Julia", "MATLAB", "Other", "PHP", "Python", "R", "Ruby", "SAS/STATA", "SQL", "Scala", "Visual Basic/VBA"]], "y": [[0.020618556701030927, 0.041237113402061855, 0.09278350515463918, 0.0, 0.061855670103092786, 0.0, 0.0, 0.030927835051546393, 0.030927835051546393, 0.0, 0.3917525773195876, 0.20618556701030927, 0.010309278350515464, 0.020618556701030927, 0.041237113402061855, 0.020618556701030927, 0.030927835051546393]]}, {"title": "Programming Language Used Most Often with Data Science Experience of 30-40 years (n=117)"}], "label": "30-40 years", "method": "update"}, {"args": [{"x": [["Bash", "C#/.NET", "C/C++", "Go", "Java", "Javascript/Typescript", "Julia", "MATLAB", "Other", "PHP", "Python", "R", "Ruby", "SAS/STATA", "SQL", "Scala", "Visual Basic/VBA"]], "y": [[0.0, 0.0425531914893617, 0.06382978723404255, 0.0, 0.02127659574468085, 0.0, 0.0, 0.06382978723404255, 0.0425531914893617, 0.0, 0.46808510638297873, 0.19148936170212766, 0.0, 0.02127659574468085, 0.02127659574468085, 0.0, 0.06382978723404255]]}, {"title": "Programming Language Used Most Often with Data Science Experience of 40+ years (n=62)"}], "label": "40+ years", "method": "update"}, {"args": [{"x": [["Bash", "C#/.NET", "C/C++", "Go", "Java", "Javascript/Typescript", "Julia", "MATLAB", "Other", "PHP", "Python", "R", "Ruby", "SAS/STATA", "SQL", "Scala", "Visual Basic/VBA"]], "y": [[0.004273504273504274, 0.07692307692307693, 0.11324786324786325, 0.0, 0.17094017094017094, 0.042735042735042736, 0.0, 0.04487179487179487, 0.017094017094017096, 0.038461538461538464, 0.30128205128205127, 0.057692307692307696, 0.00641025641025641, 0.00641025641025641, 0.10683760683760683, 0.0, 0.01282051282051282]]}, {"title": "Programming Language Used Most Often with Data Science Experience of I have never written code but I want to learn (n=821)"}], "label": "I have never written code but I want to learn", "method": "update"}], "direction": "left", "showactive": true, "type": "buttons", "x": -0.1, "xanchor": "left", "y": 1.1, "yanchor": "top"}], "width": 750, "yaxis": {"range": [0.0, 0.7], "title": "(Relative) Number of Answers"}},
-{"scrollZoom": false, "editable": false, "displaylogo": true, "toImageButtonOptions": {"format": "png", "filename": "kaggle_2018_primary_language_cferner", "height": null, "width": null}, "modeBarButtonsToRemove": ["lasso2d", "select2d", "hoverClosestCartesian", "hoverCompareCartesian"], "responsive": true}
-)
-};
-&lt;/script>
-&lt;/div>
-&lt;/body>
-&lt;/html></description></item><item><title>Präsentation der Publikation: Sub-sentence Level Topic Classification</title><link>https://cornelia-ferner.github.io/de/post/2019_ecmlpkdd/</link><pubDate>Wed, 18 Sep 2019 14:00:00 +0100</pubDate><guid>https://cornelia-ferner.github.io/de/post/2019_ecmlpkdd/</guid><description>&lt;h3 id="sub-sentence-level-topic-classification">Sub-sentence Level Topic Classification&lt;/h3>
-&lt;p>This paper aims at identifying sequences of words related to specific product components in online product
-reviews. A reliable baseline performance for this topic classification problem is given by a Max Entropy
-classifier which assumes independence over subsequent topics.
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>data science | Cornelia Ferner</title>
+    <link>https://cornelia-ferner.github.io/de/tag/data-science/</link>
+      <atom:link href="https://cornelia-ferner.github.io/de/tag/data-science/index.xml" rel="self" type="application/rss+xml" />
+    <description>data science</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>de-at</language><copyright>© 2022</copyright><lastBuildDate>Wed, 23 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cornelia-ferner.github.io/media/icon_hu5335208573ec51f95dfe6e3211008f96_29473_512x512_fill_lanczos_center_3.png</url>
+      <title>data science</title>
+      <link>https://cornelia-ferner.github.io/de/tag/data-science/</link>
+    </image>
+    
+    <item>
+      <title>Forschungsprojekt &#34;Schnatterbüchse - Chatbots in der Lehre&#34; startet</title>
+      <link>https://cornelia-ferner.github.io/de/post/2022_schnatterbuchse/</link>
+      <pubDate>Wed, 23 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://cornelia-ferner.github.io/de/post/2022_schnatterbuchse/</guid>
+      <description>&lt;p&gt;Im März 2022 startet das interdisziplinäre Forschungsprojekt “Schnatterbüchse - Chatbots in der Lehre”, in dem ich mit FH-Prof. Dr. Eva Lienbacher (Studiengang Betriebswirtschaft) der Frage nachgehe, wie Chatbots in der Lehre sinnvoll eingesetzt werden können. 
+Grundsätzlich können Chatbots in der Lehre unterschiedliche Aufgaben übernehmen, wie bspw. die Beantwortung häufiger Fragen, Mentoring-Aktivitäten oder auch die Simulation von Expert*innen als Gegenüber in (beruflichen) Situationen, in denen der Chatbot z.B. die Rolle von Kund*innen, Patient*innen etc. einnimmt.&lt;/p&gt;
+&lt;p&gt;Gemeinsam mit Studierenden werden während der Projektlaufzeit von zwei Jahren zwei Demonstratoren und eine Fallstudie für den Einsatz in der Lehre entwickelt und erprobt. 
+Das interdisziplinäre Projekt adressiert im ersten Durchlauf als primäre Zielgruppe Studierende aus vier Studiengängen der Ingenieurwissenschaft sowie der Sozial- und Wirtschaftswissenschaften. 
+Das gesammelte Know-how soll durch Workshops einem breiteren Zielpublikum näher gebracht werden. 
+Darüber hinaus sollen die gesammelten Erkenntnisse als Grundlage für neue Forschungsprojekte und Hochschulpartnerschaften dienen.&lt;/p&gt;
+&lt;p&gt;Das Projekt wird vom Zukunftsfonds der FH Salzburg gefördert.&lt;/p&gt;
+&lt;p&gt;Weitere Informationen: &lt;a href=&#34;https://its.fh-salzburg.ac.at/forschung/forschungsprojekte/projektseite/schnatterbuechse/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Studiengang ITS&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Präsentation der Publikation: Strategic Approaches to the Use of Data Science in SMEs</title>
+      <link>https://cornelia-ferner.github.io/de/post/2021_idsc/</link>
+      <pubDate>Thu, 21 Oct 2021 14:50:00 +0100</pubDate>
+      <guid>https://cornelia-ferner.github.io/de/post/2021_idsc/</guid>
+      <description>&lt;h3 id=&#34;strategic-approaches-to-the-use-of-data-science-in-smes&#34;&gt;Strategic Approaches to the Use of Data Science in SMEs&lt;/h3&gt;
+&lt;p&gt;The potential of data analytics and modeling, especially in the context of digital transformation, 
+is well known and seen as an opportunity to increase competitiveness and innovation in companies. 
+However, the technical and organizational implementation of these methods poses challenges specifically for SMEs. 
+A regional multi-case study explores the causes and exhibits patterns that suggest differentiated recommendations for action. 
+Awareness of the diverse limitations and challenges can help all players involved – companies, universities and governmental organizations – 
+to design future projects in an even more targeted manner.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Article Abstract&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Der Vortrag wurde &lt;a href=&#34;https://idsc.at/idsc21-keynotes-and-sessions-day-2/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;aufgezeichnet&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Strategic Approaches to the Use of Data Science in SMEs</title>
+      <link>https://cornelia-ferner.github.io/de/publication/ferner21a/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://cornelia-ferner.github.io/de/publication/ferner21a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Workshop: Data Analytics | Excel war gestern!</title>
+      <link>https://cornelia-ferner.github.io/de/post/2020_ditact/</link>
+      <pubDate>Thu, 10 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://cornelia-ferner.github.io/de/post/2020_ditact/</guid>
+      <description>&lt;h3 id=&#34;data-analytics--excel-war-gestern&#34;&gt;Data Analytics | Excel war gestern!&lt;/h3&gt;
+&lt;p&gt;Daten analysieren, aggregieren und visualisieren - für all das ist Excel oft das Programm der Wahl. 
+In diesem Kurs lernen die Teilnehmerinnen, welche Möglichkeiten zur Datenanalyse die Programmiersprache 
+Python bietet und welche Funktionalitäten darüber hinaus geboten werden:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Daten einlesen und darstellen&lt;/li&gt;
+&lt;li&gt;Daten säubern und normalisieren&lt;/li&gt;
+&lt;li&gt;statistische Kennzahlen berechnen&lt;/li&gt;
+&lt;li&gt;Gruppieren und Aggregieren&lt;/li&gt;
+&lt;li&gt;Datenvisualisierung&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Vortrag für angemeldete Teilnehmerinnen im Rahmen der &lt;a href=&#34;https://ditact.ac.at/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ditact 2020&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Effectiveness of the Max Entropy Classifier for Feature Selection</title>
+      <link>https://cornelia-ferner.github.io/de/publication/schnoll19a/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://cornelia-ferner.github.io/de/publication/schnoll19a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transition to peak-load-based tariffs can be disruptive for different groups of consumers</title>
+      <link>https://cornelia-ferner.github.io/de/publication/azarova19a/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://cornelia-ferner.github.io/de/publication/azarova19a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Science: Python oder R?</title>
+      <link>https://cornelia-ferner.github.io/de/post/2019_sankey/</link>
+      <pubDate>Thu, 26 Sep 2019 13:44:25 +0100</pubDate>
+      <guid>https://cornelia-ferner.github.io/de/post/2019_sankey/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Wenn es nach Kaggle-Nutzer*innen geht: Welche Programmiersprache ist führend im Bereich Data Sciene wenn es um die Häufigkeit der Nutzung und der Empfehlungen geht?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;2018 wurde die &lt;a href=&#34;kaggle.com&#34;&gt;Kaggle&lt;/a&gt; Nutzergruppe nach ihren bevorzugten Data Science Methoden und Werkzeugen sowie ihre Erfahrungen damit befragt. Unglaubliche 23860 Nutzer*innen weltweit haben geantwortet. The folgenden Analysen basieren auf dem &lt;a href=&#34;https://www.kaggle.com/kaggle/kaggle-survey-2018&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;öffentlich verfügbaren Datensatz&lt;/a&gt;:&lt;/p&gt;
+&lt;p&gt;Python oder R? Diese Frage hat das Potential, in lebhafte, kontroversielle Diskussionen auszuarten, wie z.B. auf &lt;a href=&#34;https://medium.com/@data_driven/python-vs-r-for-data-science-and-the-winner-is-3ebb1a968197&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;medium&lt;/a&gt; oder &lt;a href=&#34;https://www.quora.com/Which-is-the-right-place-to-start-for-AI-ML-Data-science-career-Python-or-R-or-something-else&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;quora&lt;/a&gt; zu sehen ist. Oder kommt vielleicht noch eine dritte Programmiersprache ins Spiel? Kaggler*innen zumindest geben eine ziemlich eindeutige Antwort&amp;hellip;&lt;/p&gt;
+&lt;h3 id=&#34;python-wird-am-häufigsten-benutzt&#34;&gt;Python wird am häufigsten benutzt&lt;/h3&gt;
+&lt;p&gt;Gefragt nach der einen, am häufigsten benutzten Programmiersprache, antworten 15222 der Befragten, nämlich 53.7%, mit Python.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;8637 von 23860 haben diese Frage nicht beantwortet.&lt;/em&gt;&lt;/p&gt;
+
+&lt;html&gt;
+&lt;head&gt;&lt;meta charset=&#34;utf-8&#34; /&gt;&lt;/head&gt;
+&lt;body&gt;
+    &lt;div&gt;
+        
+                &lt;script type=&#34;text/javascript&#34;&gt;window.PlotlyConfig = {MathJaxConfig: &#39;local&#39;};&lt;/script&gt;
+        &lt;script src=&#34;https://cdn.plot.ly/plotly-latest.min.js&#34;&gt;&lt;/script&gt;    
+            &lt;div id=&#34;6925a285-4aa6-41c5-a1bc-22f524468b83&#34; class=&#34;plotly-graph-div&#34; style=&#34;height:500px; width:750px;&#34;&gt;&lt;/div&gt;
+            &lt;script type=&#34;text/javascript&#34;&gt;
+                
+                    window.PLOTLYENV=window.PLOTLYENV || {};
+                    
+                if (document.getElementById(&#34;6925a285-4aa6-41c5-a1bc-22f524468b83&#34;)) {
+                    Plotly.newPlot(
+                        &#39;6925a285-4aa6-41c5-a1bc-22f524468b83&#39;,
+                        [{&#34;marker&#34;: {&#34;color&#34;: [&#34;blue&#34;, &#34;darkgrey&#34;, &#34;darkgrey&#34;, &#34;darkgrey&#34;, &#34;darkgrey&#34;, &#34;darkgrey&#34;, &#34;darkgrey&#34;, &#34;darkgrey&#34;, &#34;darkgrey&#34;, &#34;darkgrey&#34;, &#34;darkgrey&#34;, &#34;darkgrey&#34;, &#34;darkgrey&#34;, &#34;darkgrey&#34;, &#34;darkgrey&#34;, &#34;darkgrey&#34;, &#34;darkgrey&#34;]}, &#34;opacity&#34;: 0.8, &#34;type&#34;: &#34;bar&#34;, &#34;value_format&#34;: &#34;.2f&#34;, &#34;x&#34;: [&#34;Python&#34;, &#34;R&#34;, &#34;SQL&#34;, &#34;Java&#34;, &#34;C/C++&#34;, &#34;C#/.NET&#34;, &#34;Javascript/Typescript&#34;, &#34;MATLAB&#34;, &#34;SAS/STATA&#34;, &#34;PHP&#34;, &#34;Visual Basic/VBA&#34;, &#34;Other&#34;, &#34;Scala&#34;, &#34;Bash&#34;, &#34;Ruby&#34;, &#34;Go&#34;, &#34;Julia&#34;], &#34;y&#34;: [0.5373801077387991, 0.1344107213243989, 0.07955590592563395, 0.059322033898305086, 0.04854815398764945, 0.02837997635001971, 0.026803310997240835, 0.023321508343187494, 0.014978320851399291, 0.012547628432531861, 0.008868742609381159, 0.007686243594797004, 0.006963605308106688, 0.003875968992248062, 0.003613191433451583, 0.003021941926159506, 0.0007226382866903166]}],
+                        {&#34;autosize&#34;: true, &#34;font&#34;: {&#34;size&#34;: 10}, &#34;height&#34;: 500, &#34;title&#34;: &#34;Programming Language Used Most Often&#34;, &#34;width&#34;: 750, &#34;yaxis&#34;: {&#34;title&#34;: &#34;(Relative) Number of Answers&#34;}},
+                        {&#34;scrollZoom&#34;: false, &#34;editable&#34;: false, &#34;displaylogo&#34;: true, &#34;toImageButtonOptions&#34;: {&#34;format&#34;: &#34;png&#34;, &#34;filename&#34;: &#34;kaggle_2018_primary_language_cferner&#34;, &#34;height&#34;: null, &#34;width&#34;: null}, &#34;modeBarButtonsToRemove&#34;: [&#34;lasso2d&#34;, &#34;select2d&#34;, &#34;hoverClosestCartesian&#34;, &#34;hoverCompareCartesian&#34;], &#34;responsive&#34;: true}
+                    )
+                };
+                
+            &lt;/script&gt;
+        &lt;/div&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+&lt;h3 id=&#34;python-wird-auch-von-nutzerinnen-anderer-programmiersprachen-empfohlen&#34;&gt;Python wird auch von Nutzer*innen anderer Programmiersprachen empfohlen&lt;/h3&gt;
+&lt;p&gt;Sogar Teilnehmer*innen, die Python nicht als primäre Sprache verwenden, empfiehlt ein großer Anteil Data Science Aspirant*innen Python als die erste Sprache, die es zu erlernen gilt.&lt;/p&gt;
+
+&lt;html&gt;
+&lt;head&gt;&lt;meta charset=&#34;utf-8&#34; /&gt;&lt;/head&gt;
+&lt;body&gt;
+    &lt;div&gt;
+        
+                &lt;script type=&#34;text/javascript&#34;&gt;window.PlotlyConfig = {MathJaxConfig: &#39;local&#39;};&lt;/script&gt;
+        &lt;script src=&#34;https://cdn.plot.ly/plotly-latest.min.js&#34;&gt;&lt;/script&gt;    
+            &lt;div id=&#34;48b96333-d2d2-4297-9493-65528da8f1d8&#34; class=&#34;plotly-graph-div&#34; style=&#34;height:500px; width:750px;&#34;&gt;&lt;/div&gt;
+            &lt;script type=&#34;text/javascript&#34;&gt;
+                
+                    window.PLOTLYENV=window.PLOTLYENV || {};
+                    
+                if (document.getElementById(&#34;48b96333-d2d2-4297-9493-65528da8f1d8&#34;)) {
+                    Plotly.newPlot(
+                        &#39;48b96333-d2d2-4297-9493-65528da8f1d8&#39;,
+                        [{&#34;marker&#34;: {&#34;color&#34;: [&#34;blue&#34;, &#34;darkgrey&#34;, &#34;darkgrey&#34;, &#34;darkgrey&#34;, &#34;darkgrey&#34;, &#34;darkgrey&#34;, &#34;darkgrey&#34;, &#34;darkgrey&#34;, &#34;darkgrey&#34;, &#34;darkgrey&#34;, &#34;darkgrey&#34;, &#34;darkgrey&#34;, &#34;darkgrey&#34;]}, &#34;opacity&#34;: 0.8, &#34;type&#34;: &#34;bar&#34;, &#34;value_format&#34;: &#34;.2f&#34;, &#34;x&#34;: [&#34;Python&#34;, &#34;R&#34;, &#34;SQL&#34;, &#34;C++&#34;, &#34;MATLAB&#34;, &#34;Java&#34;, &#34;Other&#34;, &#34;None&#34;, &#34;Scala&#34;, &#34;Javascript&#34;, &#34;SAS&#34;, &#34;VBA&#34;, &#34;Go&#34;], &#34;y&#34;: [0.7547902916755376, 0.12465403449010007, 0.04864807323823717, 0.018043431977858206, 0.01362571854375133, 0.009793485203321269, 0.00856929955290611, 0.00702576112412178, 0.0039386842665531194, 0.0038322333404300617, 0.003672556951245476, 0.002022567596338088, 0.0013838620395997445]}],
+                        {&#34;autosize&#34;: true, &#34;font&#34;: {&#34;size&#34;: 10}, &#34;height&#34;: 500, &#34;title&#34;: &#34;Programming Language Suggested as First Language to Learn&#34;, &#34;width&#34;: 750, &#34;yaxis&#34;: {&#34;title&#34;: &#34;(Relative) Number of Answers&#34;}},
+                        {&#34;scrollZoom&#34;: false, &#34;editable&#34;: false, &#34;displaylogo&#34;: true, &#34;toImageButtonOptions&#34;: {&#34;format&#34;: &#34;png&#34;, &#34;filename&#34;: &#34;kaggle_2018_primary_language_cferner&#34;, &#34;height&#34;: null, &#34;width&#34;: null}, &#34;modeBarButtonsToRemove&#34;: [&#34;lasso2d&#34;, &#34;select2d&#34;, &#34;hoverClosestCartesian&#34;, &#34;hoverCompareCartesian&#34;], &#34;responsive&#34;: true}
+                    )
+                };
+                
+            &lt;/script&gt;
+        &lt;/div&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+&lt;p&gt;&lt;em&gt;Wurde eine dieser zwei Fragen nicht beantwortet, zählt das als &amp;ldquo;None&amp;rdquo;. Teilnehme*innen, die beide Fragen nicht beantwortet haben, wurden nicht gezählt (n=5052). Insgesamt wurden also 18807 Antworten gezählt.&lt;/em&gt;&lt;/p&gt;
+&lt;h3 id=&#34;mehrheit-empfiehlt-python-als-erste-programmiersprache&#34;&gt;Mehrheit empfiehlt Python als erste Programmiersprache&lt;/h3&gt;
+&lt;p&gt;Python wird von 75.48% der 18788 Teilnehmer*innen als erste Sprache, die es beim Einstieg in das Thema Data Science zu erlernen gilt, empfohlen.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;5071 Teilnehmer*innen habe keine Antwort gegeben.&lt;/em&gt;&lt;/p&gt;
+
+&lt;html&gt;
+&lt;head&gt;&lt;meta charset=&#34;utf-8&#34; /&gt;&lt;/head&gt;
+&lt;body&gt;
+    &lt;div&gt;
+        
+                &lt;script type=&#34;text/javascript&#34;&gt;window.PlotlyConfig = {MathJaxConfig: &#39;local&#39;};&lt;/script&gt;
+        &lt;script src=&#34;https://cdn.plot.ly/plotly-latest.min.js&#34;&gt;&lt;/script&gt;    
+            &lt;div id=&#34;d2078e48-00e1-4a0c-b51b-674e322015fa&#34; class=&#34;plotly-graph-div&#34; style=&#34;height:750px; width:750px;&#34;&gt;&lt;/div&gt;
+            &lt;script type=&#34;text/javascript&#34;&gt;
+                
+                    window.PLOTLYENV=window.PLOTLYENV || {};
+                    
+                if (document.getElementById(&#34;d2078e48-00e1-4a0c-b51b-674e322015fa&#34;)) {
+                    Plotly.newPlot(
+                        &#39;d2078e48-00e1-4a0c-b51b-674e322015fa&#39;,
+                        [{&#34;link&#34;: {&#34;source&#34;: [0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 3, 3, 3, 3, 3, 3, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 6, 6, 6, 6, 7, 7, 7, 7, 7, 7, 7, 7, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 9, 9, 9, 9, 9, 9, 10, 10, 10, 10, 10, 10, 10, 10, 10, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 13, 13, 13, 13, 13, 13, 13, 13, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 16, 16, 16, 16, 16, 16, 16, 16, 17, 17, 17, 17, 17, 17, 17, 17, 17], &#34;target&#34;: [18, 20, 22, 23, 24, 25, 26, 28, 18, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 18, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 18, 19, 21, 23, 25, 26, 18, 19, 20, 21, 22, 23, 24, 25, 26, 28, 29, 30, 18, 19, 20, 21, 22, 23, 24, 25, 26, 28, 29, 22, 24, 25, 26, 18, 22, 23, 24, 25, 26, 28, 29, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 23, 24, 25, 26, 27, 28, 18, 19, 20, 21, 22, 24, 25, 26, 28, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 18, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 19, 20, 21, 22, 24, 25, 28, 29, 18, 20, 22, 23, 24, 25, 26, 27, 28, 30, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 18, 20, 22, 24, 25, 26, 28, 29, 18, 20, 22, 23, 25, 26, 27, 28, 30], &#34;value&#34;: [2, 1, 1, 1, 4, 43, 4, 3, 11, 5, 2, 9, 3, 4, 346, 33, 3, 12, 4, 52, 15, 1, 16, 7, 4, 582, 49, 2, 8, 3, 1, 8, 1, 1, 32, 3, 13, 2, 57, 6, 15, 13, 6, 686, 74, 20, 10, 1, 2, 1, 4, 21, 3, 3, 6, 333, 19, 14, 2, 1, 3, 6, 1, 9, 65, 4, 5, 236, 30, 5, 1, 60, 4, 32, 16, 41, 76, 47, 2697, 418, 20, 147, 13, 14, 2, 8, 84, 18, 2, 3, 4, 1, 4, 8, 8, 2, 139, 19, 6, 152, 7, 46, 11, 83, 19, 49, 7161, 386, 7, 230, 21, 8, 23, 9, 2, 6, 9, 14, 828, 1028, 7, 112, 3, 5, 1, 1, 1, 1, 1, 46, 3, 1, 3, 1, 1, 2, 3, 122, 56, 21, 18, 1, 2, 2, 6, 3, 4, 9, 3, 682, 169, 6, 318, 5, 2, 2, 2, 1, 2, 78, 6, 4, 11, 3, 1, 1, 2, 80, 29, 1, 11, 7]}, &#34;node&#34;: {&#34;color&#34;: [&#34;blue&#34;, &#34;blue&#34;, &#34;blue&#34;, &#34;blue&#34;, &#34;blue&#34;, &#34;blue&#34;, &#34;blue&#34;, &#34;blue&#34;, &#34;blue&#34;, &#34;blue&#34;, &#34;blue&#34;, &#34;blue&#34;, &#34;blue&#34;, &#34;blue&#34;, &#34;blue&#34;, &#34;blue&#34;, &#34;blue&#34;, &#34;blue&#34;, &#34;blue&#34;, &#34;blue&#34;, &#34;blue&#34;, &#34;blue&#34;, &#34;blue&#34;, &#34;blue&#34;, &#34;blue&#34;, &#34;blue&#34;, &#34;blue&#34;, &#34;blue&#34;, &#34;blue&#34;, &#34;blue&#34;, &#34;blue&#34;], &#34;label&#34;: [&#34;Bash&#34;, &#34;C#/.NET&#34;, &#34;C/C++&#34;, &#34;Go&#34;, &#34;Java&#34;, &#34;Javascript/Typescript&#34;, &#34;Julia&#34;, &#34;MATLAB&#34;, &#34;None&#34;, &#34;Other&#34;, &#34;PHP&#34;, &#34;Python&#34;, &#34;R&#34;, &#34;Ruby&#34;, &#34;SAS/STATA&#34;, &#34;SQL&#34;, &#34;Scala&#34;, &#34;Visual Basic/VBA&#34;, &#34;C++&#34;, &#34;Go&#34;, &#34;Java&#34;, &#34;Javascript&#34;, &#34;MATLAB&#34;, &#34;None&#34;, &#34;Other&#34;, &#34;Python&#34;, &#34;R&#34;, &#34;SAS&#34;, &#34;SQL&#34;, &#34;Scala&#34;, &#34;VBA&#34;], &#34;line&#34;: {&#34;color&#34;: &#34;black&#34;, &#34;width&#34;: 0.5}, &#34;pad&#34;: 10, &#34;thickness&#34;: 30}, &#34;orientation&#34;: &#34;h&#34;, &#34;type&#34;: &#34;sankey&#34;, &#34;valueformat&#34;: &#34;.0f&#34;}],
+                        {&#34;autosize&#34;: true, &#34;font&#34;: {&#34;size&#34;: 10}, &#34;height&#34;: 750, &#34;title&#34;: &#34;Programming Language Used vs. Suggested&#34;, &#34;width&#34;: 750},
+                        {&#34;scrollZoom&#34;: false, &#34;editable&#34;: false, &#34;displaylogo&#34;: true, &#34;toImageButtonOptions&#34;: {&#34;format&#34;: &#34;png&#34;, &#34;filename&#34;: &#34;kaggle_2018_primary_language_cferner&#34;, &#34;height&#34;: null, &#34;width&#34;: null}, &#34;modeBarButtonsToRemove&#34;: [&#34;lasso2d&#34;, &#34;select2d&#34;, &#34;hoverClosestCartesian&#34;, &#34;hoverCompareCartesian&#34;], &#34;responsive&#34;: true}
+                    )
+                };
+                
+            &lt;/script&gt;
+        &lt;/div&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+&lt;h3 id=&#34;python-zunehmend-populär&#34;&gt;Python zunehmend populär&lt;/h3&gt;
+&lt;p&gt;Pythons Popularität hat zugenommen, wie ein Blick auf die Erfahrung der Teilnehmer*innen im Bereich Data Science zeigt.
+Während &amp;ldquo;nur&amp;rdquo; 39.18% der Teilnehmer*innen mit einer Erfahrung im Bereich Data Science von 30-40 Jahren Python als am häufigsten verwendete Sprache angeben, erhöht sich dieser Wert auf 59.89% bei den Teilnehmer*innen mit einer Erfahrung von 1-2 Jahren. Neueinsteiger*innen (&amp;lt;1 Jahr Erfahrung oder noch keine Programmiererfahrung im Bereich Datenanalyse) mit Programmiererfahrung aus anderen Bereichen weisen eine diversere Palette an häufig verwendeten Sprachen auf - aber immer noch mit Python als Vorreiter.&lt;/p&gt;
+&lt;p&gt;*5326 Teilnehmer*innen haben nicht geantwortet. 41 Teilnehmer*innen die noch nie Code geschrieben haben und es auch nicht lernen wollen (&lt;code&gt;have never written code and do not want to learn&lt;/code&gt;) &lt;em&gt;wurden auch nicht gezählt.&lt;/em&gt;&lt;/p&gt;
+
+&lt;html&gt;
+&lt;head&gt;&lt;meta charset=&#34;utf-8&#34; /&gt;&lt;/head&gt;
+&lt;body&gt;
+    &lt;div&gt;
+        
+                &lt;script type=&#34;text/javascript&#34;&gt;window.PlotlyConfig = {MathJaxConfig: &#39;local&#39;};&lt;/script&gt;
+        &lt;script src=&#34;https://cdn.plot.ly/plotly-latest.min.js&#34;&gt;&lt;/script&gt;    
+            &lt;div id=&#34;f0b5ecab-c3cc-43f3-8341-2f931df1afb9&#34; class=&#34;plotly-graph-div&#34; style=&#34;height:600px; width:750px;&#34;&gt;&lt;/div&gt;
+            &lt;script type=&#34;text/javascript&#34;&gt;
+                
+                    window.PLOTLYENV=window.PLOTLYENV || {};
+                    
+                if (document.getElementById(&#34;f0b5ecab-c3cc-43f3-8341-2f931df1afb9&#34;)) {
+                    Plotly.newPlot(
+                        &#39;f0b5ecab-c3cc-43f3-8341-2f931df1afb9&#39;,
+                        [{&#34;marker&#34;: {&#34;color&#34;: [&#34;darkgrey&#34;, &#34;darkgrey&#34;, &#34;darkgrey&#34;, &#34;darkgrey&#34;, &#34;darkgrey&#34;, &#34;darkgrey&#34;, &#34;darkgrey&#34;, &#34;darkgrey&#34;, &#34;darkgrey&#34;, &#34;darkgrey&#34;, &#34;blue&#34;, &#34;darkgrey&#34;, &#34;darkgrey&#34;, &#34;darkgrey&#34;, &#34;darkgrey&#34;, &#34;darkgrey&#34;, &#34;darkgrey&#34;]}, &#34;opacity&#34;: 0.8, &#34;type&#34;: &#34;bar&#34;, &#34;value_format&#34;: &#34;.2f&#34;, &#34;x&#34;: [&#34;Bash&#34;, &#34;C#/.NET&#34;, &#34;C/C++&#34;, &#34;Go&#34;, &#34;Java&#34;, &#34;Javascript/Typescript&#34;, &#34;Julia&#34;, &#34;MATLAB&#34;, &#34;Other&#34;, &#34;PHP&#34;, &#34;Python&#34;, &#34;R&#34;, &#34;Ruby&#34;, &#34;SAS/STATA&#34;, &#34;SQL&#34;, &#34;Scala&#34;, &#34;Visual Basic/VBA&#34;], &#34;y&#34;: [0.00498533724340176, 0.03841642228739003, 0.0780058651026393, 0.0026392961876832845, 0.09296187683284457, 0.04457478005865103, 0.0, 0.015542521994134898, 0.00997067448680352, 0.01788856304985337, 0.5363636363636364, 0.08797653958944282, 0.00498533724340176, 0.004398826979472141, 0.05043988269794721, 0.004398826979472141, 0.0064516129032258064]}],
+                        {&#34;autosize&#34;: true, &#34;font&#34;: {&#34;size&#34;: 10}, &#34;height&#34;: 600, &#34;title&#34;: &#34;Programming Language Used Most Often with Data Science Experience of &lt; 1 Year (n=4542)&#34;, &#34;updatemenus&#34;: [{&#34;buttons&#34;: [{&#34;args&#34;: [{&#34;x&#34;: [[&#34;Bash&#34;, &#34;C#/.NET&#34;, &#34;C/C++&#34;, &#34;Go&#34;, &#34;Java&#34;, &#34;Javascript/Typescript&#34;, &#34;Julia&#34;, &#34;MATLAB&#34;, &#34;Other&#34;, &#34;PHP&#34;, &#34;Python&#34;, &#34;R&#34;, &#34;Ruby&#34;, &#34;SAS/STATA&#34;, &#34;SQL&#34;, &#34;Scala&#34;, &#34;Visual Basic/VBA&#34;]], &#34;y&#34;: [[0.00498533724340176, 0.03841642228739003, 0.0780058651026393, 0.0026392961876832845, 0.09296187683284457, 0.04457478005865103, 0.0, 0.015542521994134898, 0.00997067448680352, 0.01788856304985337, 0.5363636363636364, 0.08797653958944282, 0.00498533724340176, 0.004398826979472141, 0.05043988269794721, 0.004398826979472141, 0.0064516129032258064]]}, {&#34;title&#34;: &#34;Programming Language Used Most Often with Data Science Experience of &lt; 1 year (n=4542)&#34;}], &#34;label&#34;: &#34;&lt; 1 year&#34;, &#34;method&#34;: &#34;update&#34;}, {&#34;args&#34;: [{&#34;x&#34;: [[&#34;Bash&#34;, &#34;C#/.NET&#34;, &#34;C/C++&#34;, &#34;Go&#34;, &#34;Java&#34;, &#34;Javascript/Typescript&#34;, &#34;Julia&#34;, &#34;MATLAB&#34;, &#34;Other&#34;, &#34;PHP&#34;, &#34;Python&#34;, &#34;R&#34;, &#34;Ruby&#34;, &#34;SAS/STATA&#34;, &#34;SQL&#34;, &#34;Scala&#34;, &#34;Visual Basic/VBA&#34;]], &#34;y&#34;: [[0.0013761467889908258, 0.023853211009174313, 0.0426605504587156, 0.0016055045871559634, 0.05527522935779817, 0.02706422018348624, 0.00022935779816513763, 0.019724770642201836, 0.005733944954128441, 0.01055045871559633, 0.5988532110091743, 0.12178899082568807, 0.0027522935779816515, 0.008944954128440367, 0.0694954128440367, 0.004357798165137615, 0.005733944954128441]]}, {&#34;title&#34;: &#34;Programming Language Used Most Often with Data Science Experience of 1-2 years (n=5359)&#34;}], &#34;label&#34;: &#34;1-2 years&#34;, &#34;method&#34;: &#34;update&#34;}, {&#34;args&#34;: [{&#34;x&#34;: [[&#34;Bash&#34;, &#34;C#/.NET&#34;, &#34;C/C++&#34;, &#34;Go&#34;, &#34;Java&#34;, &#34;Javascript/Typescript&#34;, &#34;Julia&#34;, &#34;MATLAB&#34;, &#34;Other&#34;, &#34;PHP&#34;, &#34;Python&#34;, &#34;R&#34;, &#34;Ruby&#34;, &#34;SAS/STATA&#34;, &#34;SQL&#34;, &#34;Scala&#34;, &#34;Visual Basic/VBA&#34;]], &#34;y&#34;: [[0.0026041666666666665, 0.015046296296296295, 0.03125, 0.0026041666666666665, 0.03674768518518518, 0.017939814814814815, 0.0014467592592592592, 0.025752314814814815, 0.004340277777777778, 0.010416666666666666, 0.5567129629629629, 0.16898148148148148, 0.0026041666666666665, 0.015335648148148149, 0.08796296296296297, 0.01099537037037037, 0.009259259259259259]]}, {&#34;title&#34;: &#34;Programming Language Used Most Often with Data Science Experience of 3-5 years (n=4023)&#34;}], &#34;label&#34;: &#34;3-5 years&#34;, &#34;method&#34;: &#34;update&#34;}, {&#34;args&#34;: [{&#34;x&#34;: [[&#34;Bash&#34;, &#34;C#/.NET&#34;, &#34;C/C++&#34;, &#34;Go&#34;, &#34;Java&#34;, &#34;Javascript/Typescript&#34;, &#34;Julia&#34;, &#34;MATLAB&#34;, &#34;Other&#34;, &#34;PHP&#34;, &#34;Python&#34;, &#34;R&#34;, &#34;Ruby&#34;, &#34;SAS/STATA&#34;, &#34;SQL&#34;, &#34;Scala&#34;, &#34;Visual Basic/VBA&#34;]], &#34;y&#34;: [[0.006900212314225053, 0.021231422505307854, 0.028662420382165606, 0.006369426751592357, 0.029193205944798302, 0.008492569002123142, 0.0010615711252653928, 0.029723991507430998, 0.004777070063694267, 0.010084925690021231, 0.5148619957537155, 0.16719745222929935, 0.002653927813163482, 0.03078556263269639, 0.11677282377919321, 0.009023354564755838, 0.012208067940552018]]}, {&#34;title&#34;: &#34;Programming Language Used Most Often with Data Science Experience of 5-10 years (n=2145)&#34;}], &#34;label&#34;: &#34;5-10 years&#34;, &#34;method&#34;: &#34;update&#34;}, {&#34;args&#34;: [{&#34;x&#34;: [[&#34;Bash&#34;, &#34;C#/.NET&#34;, &#34;C/C++&#34;, &#34;Go&#34;, &#34;Java&#34;, &#34;Javascript/Typescript&#34;, &#34;Julia&#34;, &#34;MATLAB&#34;, &#34;Other&#34;, &#34;PHP&#34;, &#34;Python&#34;, &#34;R&#34;, &#34;Ruby&#34;, &#34;SAS/STATA&#34;, &#34;SQL&#34;, &#34;Scala&#34;, &#34;Visual Basic/VBA&#34;]], &#34;y&#34;: [[0.006042296072507553, 0.03625377643504532, 0.03423967774420947, 0.005035246727089627, 0.04028197381671702, 0.019133937562940583, 0.0030211480362537764, 0.023162134944612285, 0.012084592145015106, 0.007049345417925478, 0.4350453172205438, 0.18529707955689828, 0.005035246727089627, 0.04028197381671702, 0.11983887210473314, 0.011077542799597181, 0.017119838872104734]]}, {&#34;title&#34;: &#34;Programming Language Used Most Often with Data Science Experience of 10-20 years (n=1102)&#34;}], &#34;label&#34;: &#34;10-20 years&#34;, &#34;method&#34;: &#34;update&#34;}, {&#34;args&#34;: [{&#34;x&#34;: [[&#34;Bash&#34;, &#34;C#/.NET&#34;, &#34;C/C++&#34;, &#34;Go&#34;, &#34;Java&#34;, &#34;Javascript/Typescript&#34;, &#34;Julia&#34;, &#34;MATLAB&#34;, &#34;Other&#34;, &#34;PHP&#34;, &#34;Python&#34;, &#34;R&#34;, &#34;Ruby&#34;, &#34;SAS/STATA&#34;, &#34;SQL&#34;, &#34;Scala&#34;, &#34;Visual Basic/VBA&#34;]], &#34;y&#34;: [[0.014134275618374558, 0.04946996466431095, 0.0353356890459364, 0.007067137809187279, 0.045936395759717315, 0.0353356890459364, 0.0, 0.045936395759717315, 0.024734982332155476, 0.0035335689045936395, 0.4134275618374558, 0.20141342756183744, 0.0035335689045936395, 0.0353356890459364, 0.0636042402826855, 0.01060070671378092, 0.01060070671378092]]}, {&#34;title&#34;: &#34;Programming Language Used Most Often with Data Science Experience of 20-30 years (n=321)&#34;}], &#34;label&#34;: &#34;20-30 years&#34;, &#34;method&#34;: &#34;update&#34;}, {&#34;args&#34;: [{&#34;x&#34;: [[&#34;Bash&#34;, &#34;C#/.NET&#34;, &#34;C/C++&#34;, &#34;Go&#34;, &#34;Java&#34;, &#34;Javascript/Typescript&#34;, &#34;Julia&#34;, &#34;MATLAB&#34;, &#34;Other&#34;, &#34;PHP&#34;, &#34;Python&#34;, &#34;R&#34;, &#34;Ruby&#34;, &#34;SAS/STATA&#34;, &#34;SQL&#34;, &#34;Scala&#34;, &#34;Visual Basic/VBA&#34;]], &#34;y&#34;: [[0.020618556701030927, 0.041237113402061855, 0.09278350515463918, 0.0, 0.061855670103092786, 0.0, 0.0, 0.030927835051546393, 0.030927835051546393, 0.0, 0.3917525773195876, 0.20618556701030927, 0.010309278350515464, 0.020618556701030927, 0.041237113402061855, 0.020618556701030927, 0.030927835051546393]]}, {&#34;title&#34;: &#34;Programming Language Used Most Often with Data Science Experience of 30-40 years (n=117)&#34;}], &#34;label&#34;: &#34;30-40 years&#34;, &#34;method&#34;: &#34;update&#34;}, {&#34;args&#34;: [{&#34;x&#34;: [[&#34;Bash&#34;, &#34;C#/.NET&#34;, &#34;C/C++&#34;, &#34;Go&#34;, &#34;Java&#34;, &#34;Javascript/Typescript&#34;, &#34;Julia&#34;, &#34;MATLAB&#34;, &#34;Other&#34;, &#34;PHP&#34;, &#34;Python&#34;, &#34;R&#34;, &#34;Ruby&#34;, &#34;SAS/STATA&#34;, &#34;SQL&#34;, &#34;Scala&#34;, &#34;Visual Basic/VBA&#34;]], &#34;y&#34;: [[0.0, 0.0425531914893617, 0.06382978723404255, 0.0, 0.02127659574468085, 0.0, 0.0, 0.06382978723404255, 0.0425531914893617, 0.0, 0.46808510638297873, 0.19148936170212766, 0.0, 0.02127659574468085, 0.02127659574468085, 0.0, 0.06382978723404255]]}, {&#34;title&#34;: &#34;Programming Language Used Most Often with Data Science Experience of 40+ years (n=62)&#34;}], &#34;label&#34;: &#34;40+ years&#34;, &#34;method&#34;: &#34;update&#34;}, {&#34;args&#34;: [{&#34;x&#34;: [[&#34;Bash&#34;, &#34;C#/.NET&#34;, &#34;C/C++&#34;, &#34;Go&#34;, &#34;Java&#34;, &#34;Javascript/Typescript&#34;, &#34;Julia&#34;, &#34;MATLAB&#34;, &#34;Other&#34;, &#34;PHP&#34;, &#34;Python&#34;, &#34;R&#34;, &#34;Ruby&#34;, &#34;SAS/STATA&#34;, &#34;SQL&#34;, &#34;Scala&#34;, &#34;Visual Basic/VBA&#34;]], &#34;y&#34;: [[0.004273504273504274, 0.07692307692307693, 0.11324786324786325, 0.0, 0.17094017094017094, 0.042735042735042736, 0.0, 0.04487179487179487, 0.017094017094017096, 0.038461538461538464, 0.30128205128205127, 0.057692307692307696, 0.00641025641025641, 0.00641025641025641, 0.10683760683760683, 0.0, 0.01282051282051282]]}, {&#34;title&#34;: &#34;Programming Language Used Most Often with Data Science Experience of I have never written code but I want to learn (n=821)&#34;}], &#34;label&#34;: &#34;I have never written code but I want to learn&#34;, &#34;method&#34;: &#34;update&#34;}], &#34;direction&#34;: &#34;left&#34;, &#34;showactive&#34;: true, &#34;type&#34;: &#34;buttons&#34;, &#34;x&#34;: -0.1, &#34;xanchor&#34;: &#34;left&#34;, &#34;y&#34;: 1.1, &#34;yanchor&#34;: &#34;top&#34;}], &#34;width&#34;: 750, &#34;yaxis&#34;: {&#34;range&#34;: [0.0, 0.7], &#34;title&#34;: &#34;(Relative) Number of Answers&#34;}},
+                        {&#34;scrollZoom&#34;: false, &#34;editable&#34;: false, &#34;displaylogo&#34;: true, &#34;toImageButtonOptions&#34;: {&#34;format&#34;: &#34;png&#34;, &#34;filename&#34;: &#34;kaggle_2018_primary_language_cferner&#34;, &#34;height&#34;: null, &#34;width&#34;: null}, &#34;modeBarButtonsToRemove&#34;: [&#34;lasso2d&#34;, &#34;select2d&#34;, &#34;hoverClosestCartesian&#34;, &#34;hoverCompareCartesian&#34;], &#34;responsive&#34;: true}
+                    )
+                };
+                
+            &lt;/script&gt;
+        &lt;/div&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Präsentation der Publikation: Sub-sentence Level Topic Classification</title>
+      <link>https://cornelia-ferner.github.io/de/post/2019_ecmlpkdd/</link>
+      <pubDate>Wed, 18 Sep 2019 14:00:00 +0100</pubDate>
+      <guid>https://cornelia-ferner.github.io/de/post/2019_ecmlpkdd/</guid>
+      <description>&lt;h3 id=&#34;sub-sentence-level-topic-classification&#34;&gt;Sub-sentence Level Topic Classification&lt;/h3&gt;
+&lt;p&gt;This paper aims at identifying sequences of words related to specific product components in online product 
+reviews. A reliable baseline performance for this topic classification problem is given by a Max Entropy 
+classifier which assumes independence over subsequent topics. 
 However, the reviews exhibit an inherent structure on the document level allowing to frame the task
-as sequence classification problem. Since more flexible models from the class of Conditional Random Fields
-were not competitive because of the limited amount of training data available, we propose using a
-Hidden Markov Model instead and decouple the training of transition and emission probabilities.
-The discriminating power of the Max Entropy approach is used for the latter.
-Besides outperforming both standalone methods as well as more generic models such as linear-chain
-Conditional Random Fields, the combined classifier is able to assign topics on subsentence level
-although labeling in the training data is only available on sentence level.&lt;/p>
-&lt;p>&lt;em>Article Abstract&lt;/em>&lt;/p></description></item><item><title>Event: Wissensdurst Festival</title><link>https://cornelia-ferner.github.io/de/post/2019_wissensdurst/</link><pubDate>Wed, 01 May 2019 19:30:00 +0100</pubDate><guid>https://cornelia-ferner.github.io/de/post/2019_wissensdurst/</guid><description>&lt;h3 id="wissensdurst-festival">Wissensdurst Festival&lt;/h3>
-&lt;p>Kaum eine Schlagzeile zu neuen Techniktrends und Zukunftsthemen kommt heute ohne die Schlagworte Artificial Intelligence, Deep Learning, Big Data oder eine Erwähnung von Unternehmen wie Facebook, Google (Alphabet) oder Amazon aus.
-Wir wollen Licht in den Begriffsdschungel bringen und zeigen, welche Themen und Forschungsfragen im regionalen und nationalen Umfeld eine Rolle spielen, wie auch „Small Data“ interessante Herausforderungen zu bieten hat und gerade der aktuelle Trend
-zur Digitalisierung ausgefeilte, spezifische Lösungen erfordert. Anhand von Beispielen aus der industriellen Bildverarbeitung sowie der Textverarbeitung wollen wir aktuelle Entwicklungen aufzeigen und deren Chancen und Risiken diskutieren.&lt;/p>
-&lt;p>&lt;em>mit Werner Pomwenger und Stefan Wegenkittl&lt;/em>&lt;/p></description></item><item><title>Exploring the impact of network tariffs on household electricity expenditures using load profiles and socio-economic characteristics</title><link>https://cornelia-ferner.github.io/de/publication/azarova18a/</link><pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate><guid>https://cornelia-ferner.github.io/de/publication/azarova18a/</guid><description/></item><item><title>Exploration of the Potential of Process Mining for Intrusion Detection in Smart Metering</title><link>https://cornelia-ferner.github.io/de/publication/eibl17a/</link><pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate><guid>https://cornelia-ferner.github.io/de/publication/eibl17a/</guid><description/></item><item><title>Network Tariff Challenge: Who Pays the Piper?</title><link>https://cornelia-ferner.github.io/de/publication/reichl17a/</link><pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate><guid>https://cornelia-ferner.github.io/de/publication/reichl17a/</guid><description/></item></channel></rss>
+as sequence classification problem. Since more flexible models from the class of Conditional Random Fields 
+were not competitive because of the limited amount of training data available, we propose using a 
+Hidden Markov Model instead and decouple the training of transition and emission probabilities. 
+The discriminating power of the Max Entropy approach is used for the latter. 
+Besides outperforming both standalone methods as well as more generic models such as linear-chain 
+Conditional Random Fields, the combined classifier is able to assign topics on subsentence level 
+although labeling in the training data is only available on sentence level.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Article Abstract&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Event: Wissensdurst Festival</title>
+      <link>https://cornelia-ferner.github.io/de/post/2019_wissensdurst/</link>
+      <pubDate>Wed, 01 May 2019 19:30:00 +0100</pubDate>
+      <guid>https://cornelia-ferner.github.io/de/post/2019_wissensdurst/</guid>
+      <description>&lt;h3 id=&#34;wissensdurst-festival&#34;&gt;Wissensdurst Festival&lt;/h3&gt;
+&lt;p&gt;Kaum eine Schlagzeile zu neuen Techniktrends und Zukunftsthemen kommt heute ohne die Schlagworte Artificial Intelligence, Deep Learning, Big Data oder eine Erwähnung von Unternehmen wie Facebook, Google (Alphabet) oder Amazon aus. 
+Wir wollen Licht in den Begriffsdschungel bringen und zeigen, welche Themen und Forschungsfragen im regionalen und nationalen Umfeld eine Rolle spielen, wie auch „Small Data“ interessante Herausforderungen zu bieten hat und gerade der aktuelle Trend 
+zur Digitalisierung ausgefeilte, spezifische Lösungen erfordert. Anhand von Beispielen aus der industriellen Bildverarbeitung sowie der Textverarbeitung wollen wir aktuelle Entwicklungen aufzeigen und deren Chancen und Risiken diskutieren.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;mit Werner Pomwenger und Stefan Wegenkittl&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Exploring the impact of network tariffs on household electricity expenditures using load profiles and socio-economic characteristics</title>
+      <link>https://cornelia-ferner.github.io/de/publication/azarova18a/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>https://cornelia-ferner.github.io/de/publication/azarova18a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploration of the Potential of Process Mining for Intrusion Detection in Smart Metering</title>
+      <link>https://cornelia-ferner.github.io/de/publication/eibl17a/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>https://cornelia-ferner.github.io/de/publication/eibl17a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Network Tariff Challenge: Who Pays the Piper?</title>
+      <link>https://cornelia-ferner.github.io/de/publication/reichl17a/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>https://cornelia-ferner.github.io/de/publication/reichl17a/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,23 +1,113 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>natural language processing | Cornelia Ferner</title><link>https://cornelia-ferner.github.io/de/tag/natural-language-processing/</link><atom:link href="https://cornelia-ferner.github.io/de/tag/natural-language-processing/index.xml" rel="self" type="application/rss+xml"/><description>natural language processing</description><generator>Wowchemy (https://wowchemy.com)</generator><language>de-at</language><copyright>© 2022</copyright><lastBuildDate>Wed, 27 Jul 2022 00:00:00 +0000</lastBuildDate><image><url>https://cornelia-ferner.github.io/media/icon_hu5335208573ec51f95dfe6e3211008f96_29473_512x512_fill_lanczos_center_3.png</url><title>natural language processing</title><link>https://cornelia-ferner.github.io/de/tag/natural-language-processing/</link></image><item><title>Captioning Bosch: A Twitter Bot</title><link>https://cornelia-ferner.github.io/de/publication/ferner22b/</link><pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate><guid>https://cornelia-ferner.github.io/de/publication/ferner22b/</guid><description/></item><item><title>Benefits from Variational Regularization in Language Models</title><link>https://cornelia-ferner.github.io/de/publication/ferner22a/</link><pubDate>Thu, 09 Jun 2022 00:00:00 +0000</pubDate><guid>https://cornelia-ferner.github.io/de/publication/ferner22a/</guid><description/></item><item><title>Was versteht eine KI von Kunst?</title><link>https://cornelia-ferner.github.io/de/post/2022_boschbot/</link><pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate><guid>https://cornelia-ferner.github.io/de/post/2022_boschbot/</guid><description>&lt;p>Die Kunstwerke des niederländischen Malers Hieronymus Bosch sind weltberühmt für ihren unglaublichen Detailreichtum. Ein populärer Twitter-Bot veröffentlicht regelmäßig kleine Ausschnitte aus den digitalisierten Gemälden und erlaubt so einen völlig neuen Zugang zu den überdimensionalen Werken.
-Mein Twitter-Bot &lt;a href="https://twitter.com/CaptionBoschBot" target="_blank" rel="noopener">CaptioningBoschBot&lt;/a> greift diese aus dem Kontext gerissenen Bilder auf und verwendet sie als Input für ein Encoder-Decoder-Modell, das Bildbeschreibungen generiert und so das Gezeigte interpretiert.
-Obwohl das Modell auf realistischen Fotos trainiert wurde und nicht über den entsprechenden Wortschatz verfügt, um Kunst zu analysieren, kommen verblüffende Interpretationen der Gemäldedetails ans Licht.
-Die generierten Bildbeschreibungen werden wiederum auf Twitter gepostet, um eine Diskussion über Boschs Meisterwerk und KI-Technologien anzuregen.&lt;/p></description></item><item><title>Forschungsprojekt "Schnatterbüchse - Chatbots in der Lehre" startet</title><link>https://cornelia-ferner.github.io/de/post/2022_schnatterbuchse/</link><pubDate>Wed, 23 Feb 2022 00:00:00 +0000</pubDate><guid>https://cornelia-ferner.github.io/de/post/2022_schnatterbuchse/</guid><description>&lt;p>Im März 2022 startet das interdisziplinäre Forschungsprojekt “Schnatterbüchse - Chatbots in der Lehre”, in dem ich mit FH-Prof. Dr. Eva Lienbacher (Studiengang Betriebswirtschaft) der Frage nachgehe, wie Chatbots in der Lehre sinnvoll eingesetzt werden können.
-Grundsätzlich können Chatbots in der Lehre unterschiedliche Aufgaben übernehmen, wie bspw. die Beantwortung häufiger Fragen, Mentoring-Aktivitäten oder auch die Simulation von Expert*innen als Gegenüber in (beruflichen) Situationen, in denen der Chatbot z.B. die Rolle von Kund*innen, Patient*innen etc. einnimmt.&lt;/p>
-&lt;p>Gemeinsam mit Studierenden werden während der Projektlaufzeit von zwei Jahren zwei Demonstratoren und eine Fallstudie für den Einsatz in der Lehre entwickelt und erprobt.
-Das interdisziplinäre Projekt adressiert im ersten Durchlauf als primäre Zielgruppe Studierende aus vier Studiengängen der Ingenieurwissenschaft sowie der Sozial- und Wirtschaftswissenschaften.
-Das gesammelte Know-how soll durch Workshops einem breiteren Zielpublikum näher gebracht werden.
-Darüber hinaus sollen die gesammelten Erkenntnisse als Grundlage für neue Forschungsprojekte und Hochschulpartnerschaften dienen.&lt;/p>
-&lt;p>Das Projekt wird vom Zukunftsfonds der FH Salzburg gefördert.&lt;/p>
-&lt;p>Weitere Informationen: &lt;a href="https://its.fh-salzburg.ac.at/forschung/forschungsprojekte/projektseite/schnatterbuechse/" target="_blank" rel="noopener">Studiengang ITS&lt;/a>&lt;/p></description></item><item><title>Automated Seeded Latent Dirichlet Allocation for Social Media Based Event Detection and Mapping</title><link>https://cornelia-ferner.github.io/de/publication/ferner20b/</link><pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate><guid>https://cornelia-ferner.github.io/de/publication/ferner20b/</guid><description/></item><item><title>A Semi-discriminative Approach for Sub-sentence Level Topic Classification on a Small Dataset</title><link>https://cornelia-ferner.github.io/de/publication/ferner20a/</link><pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate><guid>https://cornelia-ferner.github.io/de/publication/ferner20a/</guid><description/></item><item><title>The Effectiveness of the Max Entropy Classifier for Feature Selection</title><link>https://cornelia-ferner.github.io/de/publication/schnoll19a/</link><pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate><guid>https://cornelia-ferner.github.io/de/publication/schnoll19a/</guid><description/></item><item><title>Präsentation der Publikation: Sub-sentence Level Topic Classification</title><link>https://cornelia-ferner.github.io/de/post/2019_ecmlpkdd/</link><pubDate>Wed, 18 Sep 2019 14:00:00 +0100</pubDate><guid>https://cornelia-ferner.github.io/de/post/2019_ecmlpkdd/</guid><description>&lt;h3 id="sub-sentence-level-topic-classification">Sub-sentence Level Topic Classification&lt;/h3>
-&lt;p>This paper aims at identifying sequences of words related to specific product components in online product
-reviews. A reliable baseline performance for this topic classification problem is given by a Max Entropy
-classifier which assumes independence over subsequent topics.
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>natural language processing | Cornelia Ferner</title>
+    <link>https://cornelia-ferner.github.io/de/tag/natural-language-processing/</link>
+      <atom:link href="https://cornelia-ferner.github.io/de/tag/natural-language-processing/index.xml" rel="self" type="application/rss+xml" />
+    <description>natural language processing</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>de-at</language><copyright>© 2022</copyright><lastBuildDate>Wed, 27 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cornelia-ferner.github.io/media/icon_hu5335208573ec51f95dfe6e3211008f96_29473_512x512_fill_lanczos_center_3.png</url>
+      <title>natural language processing</title>
+      <link>https://cornelia-ferner.github.io/de/tag/natural-language-processing/</link>
+    </image>
+    
+    <item>
+      <title>Captioning Bosch: A Twitter Bot</title>
+      <link>https://cornelia-ferner.github.io/de/publication/ferner22b/</link>
+      <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://cornelia-ferner.github.io/de/publication/ferner22b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Benefits from Variational Regularization in Language Models</title>
+      <link>https://cornelia-ferner.github.io/de/publication/ferner22a/</link>
+      <pubDate>Thu, 09 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://cornelia-ferner.github.io/de/publication/ferner22a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Was versteht eine KI von Kunst?</title>
+      <link>https://cornelia-ferner.github.io/de/post/2022_boschbot/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://cornelia-ferner.github.io/de/post/2022_boschbot/</guid>
+      <description>&lt;p&gt;Die Kunstwerke des niederländischen Malers Hieronymus Bosch sind weltberühmt für ihren unglaublichen Detailreichtum. Ein populärer Twitter-Bot veröffentlicht regelmäßig kleine Ausschnitte aus den digitalisierten Gemälden und erlaubt so einen völlig neuen Zugang zu den überdimensionalen Werken. 
+Mein Twitter-Bot &lt;a href=&#34;https://twitter.com/CaptionBoschBot&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CaptioningBoschBot&lt;/a&gt; greift diese aus dem Kontext gerissenen Bilder auf und verwendet sie als Input für ein Encoder-Decoder-Modell, das Bildbeschreibungen generiert und so das Gezeigte interpretiert. 
+Obwohl das Modell auf realistischen Fotos trainiert wurde und nicht über den entsprechenden Wortschatz verfügt, um Kunst zu analysieren, kommen verblüffende Interpretationen der Gemäldedetails ans Licht. 
+Die generierten Bildbeschreibungen werden wiederum auf Twitter gepostet, um eine Diskussion über Boschs Meisterwerk und KI-Technologien anzuregen.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Forschungsprojekt &#34;Schnatterbüchse - Chatbots in der Lehre&#34; startet</title>
+      <link>https://cornelia-ferner.github.io/de/post/2022_schnatterbuchse/</link>
+      <pubDate>Wed, 23 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://cornelia-ferner.github.io/de/post/2022_schnatterbuchse/</guid>
+      <description>&lt;p&gt;Im März 2022 startet das interdisziplinäre Forschungsprojekt “Schnatterbüchse - Chatbots in der Lehre”, in dem ich mit FH-Prof. Dr. Eva Lienbacher (Studiengang Betriebswirtschaft) der Frage nachgehe, wie Chatbots in der Lehre sinnvoll eingesetzt werden können. 
+Grundsätzlich können Chatbots in der Lehre unterschiedliche Aufgaben übernehmen, wie bspw. die Beantwortung häufiger Fragen, Mentoring-Aktivitäten oder auch die Simulation von Expert*innen als Gegenüber in (beruflichen) Situationen, in denen der Chatbot z.B. die Rolle von Kund*innen, Patient*innen etc. einnimmt.&lt;/p&gt;
+&lt;p&gt;Gemeinsam mit Studierenden werden während der Projektlaufzeit von zwei Jahren zwei Demonstratoren und eine Fallstudie für den Einsatz in der Lehre entwickelt und erprobt. 
+Das interdisziplinäre Projekt adressiert im ersten Durchlauf als primäre Zielgruppe Studierende aus vier Studiengängen der Ingenieurwissenschaft sowie der Sozial- und Wirtschaftswissenschaften. 
+Das gesammelte Know-how soll durch Workshops einem breiteren Zielpublikum näher gebracht werden. 
+Darüber hinaus sollen die gesammelten Erkenntnisse als Grundlage für neue Forschungsprojekte und Hochschulpartnerschaften dienen.&lt;/p&gt;
+&lt;p&gt;Das Projekt wird vom Zukunftsfonds der FH Salzburg gefördert.&lt;/p&gt;
+&lt;p&gt;Weitere Informationen: &lt;a href=&#34;https://its.fh-salzburg.ac.at/forschung/forschungsprojekte/projektseite/schnatterbuechse/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Studiengang ITS&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Automated Seeded Latent Dirichlet Allocation for Social Media Based Event Detection and Mapping</title>
+      <link>https://cornelia-ferner.github.io/de/publication/ferner20b/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://cornelia-ferner.github.io/de/publication/ferner20b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Semi-discriminative Approach for Sub-sentence Level Topic Classification on a Small Dataset</title>
+      <link>https://cornelia-ferner.github.io/de/publication/ferner20a/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://cornelia-ferner.github.io/de/publication/ferner20a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Effectiveness of the Max Entropy Classifier for Feature Selection</title>
+      <link>https://cornelia-ferner.github.io/de/publication/schnoll19a/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://cornelia-ferner.github.io/de/publication/schnoll19a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Präsentation der Publikation: Sub-sentence Level Topic Classification</title>
+      <link>https://cornelia-ferner.github.io/de/post/2019_ecmlpkdd/</link>
+      <pubDate>Wed, 18 Sep 2019 14:00:00 +0100</pubDate>
+      <guid>https://cornelia-ferner.github.io/de/post/2019_ecmlpkdd/</guid>
+      <description>&lt;h3 id=&#34;sub-sentence-level-topic-classification&#34;&gt;Sub-sentence Level Topic Classification&lt;/h3&gt;
+&lt;p&gt;This paper aims at identifying sequences of words related to specific product components in online product 
+reviews. A reliable baseline performance for this topic classification problem is given by a Max Entropy 
+classifier which assumes independence over subsequent topics. 
 However, the reviews exhibit an inherent structure on the document level allowing to frame the task
-as sequence classification problem. Since more flexible models from the class of Conditional Random Fields
-were not competitive because of the limited amount of training data available, we propose using a
-Hidden Markov Model instead and decouple the training of transition and emission probabilities.
-The discriminating power of the Max Entropy approach is used for the latter.
-Besides outperforming both standalone methods as well as more generic models such as linear-chain
-Conditional Random Fields, the combined classifier is able to assign topics on subsentence level
-although labeling in the training data is only available on sentence level.&lt;/p>
-&lt;p>&lt;em>Article Abstract&lt;/em>&lt;/p></description></item><item><title>Information Extraction Engine for Sentiment-Topic Matching in Product Intelligence Applications</title><link>https://cornelia-ferner.github.io/de/publication/ferner17a/</link><pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate><guid>https://cornelia-ferner.github.io/de/publication/ferner17a/</guid><description/></item></channel></rss>
+as sequence classification problem. Since more flexible models from the class of Conditional Random Fields 
+were not competitive because of the limited amount of training data available, we propose using a 
+Hidden Markov Model instead and decouple the training of transition and emission probabilities. 
+The discriminating power of the Max Entropy approach is used for the latter. 
+Besides outperforming both standalone methods as well as more generic models such as linear-chain 
+Conditional Random Fields, the combined classifier is able to assign topics on subsentence level 
+although labeling in the training data is only available on sentence level.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Article Abstract&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Information Extraction Engine for Sentiment-Topic Matching in Product Intelligence Applications</title>
+      <link>https://cornelia-ferner.github.io/de/publication/ferner17a/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>https://cornelia-ferner.github.io/de/publication/ferner17a/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

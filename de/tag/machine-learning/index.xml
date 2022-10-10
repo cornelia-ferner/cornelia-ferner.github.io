@@ -1,17 +1,82 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>machine learning | Cornelia Ferner</title><link>https://cornelia-ferner.github.io/de/tag/machine-learning/</link><atom:link href="https://cornelia-ferner.github.io/de/tag/machine-learning/index.xml" rel="self" type="application/rss+xml"/><description>machine learning</description><generator>Wowchemy (https://wowchemy.com)</generator><language>de-at</language><copyright>© 2022</copyright><lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate><image><url>https://cornelia-ferner.github.io/media/icon_hu5335208573ec51f95dfe6e3211008f96_29473_512x512_fill_lanczos_center_3.png</url><title>machine learning</title><link>https://cornelia-ferner.github.io/de/tag/machine-learning/</link></image><item><title>Automated Seeded Latent Dirichlet Allocation for Social Media Based Event Detection and Mapping</title><link>https://cornelia-ferner.github.io/de/publication/ferner20b/</link><pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate><guid>https://cornelia-ferner.github.io/de/publication/ferner20b/</guid><description/></item><item><title>A Semi-discriminative Approach for Sub-sentence Level Topic Classification on a Small Dataset</title><link>https://cornelia-ferner.github.io/de/publication/ferner20a/</link><pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate><guid>https://cornelia-ferner.github.io/de/publication/ferner20a/</guid><description/></item><item><title>The Effectiveness of the Max Entropy Classifier for Feature Selection</title><link>https://cornelia-ferner.github.io/de/publication/schnoll19a/</link><pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate><guid>https://cornelia-ferner.github.io/de/publication/schnoll19a/</guid><description/></item><item><title>Präsentation der Publikation: Sub-sentence Level Topic Classification</title><link>https://cornelia-ferner.github.io/de/post/2019_ecmlpkdd/</link><pubDate>Wed, 18 Sep 2019 14:00:00 +0100</pubDate><guid>https://cornelia-ferner.github.io/de/post/2019_ecmlpkdd/</guid><description>&lt;h3 id="sub-sentence-level-topic-classification">Sub-sentence Level Topic Classification&lt;/h3>
-&lt;p>This paper aims at identifying sequences of words related to specific product components in online product
-reviews. A reliable baseline performance for this topic classification problem is given by a Max Entropy
-classifier which assumes independence over subsequent topics.
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>machine learning | Cornelia Ferner</title>
+    <link>https://cornelia-ferner.github.io/de/tag/machine-learning/</link>
+      <atom:link href="https://cornelia-ferner.github.io/de/tag/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>machine learning</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>de-at</language><copyright>© 2022</copyright><lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cornelia-ferner.github.io/media/icon_hu5335208573ec51f95dfe6e3211008f96_29473_512x512_fill_lanczos_center_3.png</url>
+      <title>machine learning</title>
+      <link>https://cornelia-ferner.github.io/de/tag/machine-learning/</link>
+    </image>
+    
+    <item>
+      <title>Automated Seeded Latent Dirichlet Allocation for Social Media Based Event Detection and Mapping</title>
+      <link>https://cornelia-ferner.github.io/de/publication/ferner20b/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://cornelia-ferner.github.io/de/publication/ferner20b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Semi-discriminative Approach for Sub-sentence Level Topic Classification on a Small Dataset</title>
+      <link>https://cornelia-ferner.github.io/de/publication/ferner20a/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://cornelia-ferner.github.io/de/publication/ferner20a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Effectiveness of the Max Entropy Classifier for Feature Selection</title>
+      <link>https://cornelia-ferner.github.io/de/publication/schnoll19a/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://cornelia-ferner.github.io/de/publication/schnoll19a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Präsentation der Publikation: Sub-sentence Level Topic Classification</title>
+      <link>https://cornelia-ferner.github.io/de/post/2019_ecmlpkdd/</link>
+      <pubDate>Wed, 18 Sep 2019 14:00:00 +0100</pubDate>
+      <guid>https://cornelia-ferner.github.io/de/post/2019_ecmlpkdd/</guid>
+      <description>&lt;h3 id=&#34;sub-sentence-level-topic-classification&#34;&gt;Sub-sentence Level Topic Classification&lt;/h3&gt;
+&lt;p&gt;This paper aims at identifying sequences of words related to specific product components in online product 
+reviews. A reliable baseline performance for this topic classification problem is given by a Max Entropy 
+classifier which assumes independence over subsequent topics. 
 However, the reviews exhibit an inherent structure on the document level allowing to frame the task
-as sequence classification problem. Since more flexible models from the class of Conditional Random Fields
-were not competitive because of the limited amount of training data available, we propose using a
-Hidden Markov Model instead and decouple the training of transition and emission probabilities.
-The discriminating power of the Max Entropy approach is used for the latter.
-Besides outperforming both standalone methods as well as more generic models such as linear-chain
-Conditional Random Fields, the combined classifier is able to assign topics on subsentence level
-although labeling in the training data is only available on sentence level.&lt;/p>
-&lt;p>&lt;em>Article Abstract&lt;/em>&lt;/p></description></item><item><title>Event: Wissensdurst Festival</title><link>https://cornelia-ferner.github.io/de/post/2019_wissensdurst/</link><pubDate>Wed, 01 May 2019 19:30:00 +0100</pubDate><guid>https://cornelia-ferner.github.io/de/post/2019_wissensdurst/</guid><description>&lt;h3 id="wissensdurst-festival">Wissensdurst Festival&lt;/h3>
-&lt;p>Kaum eine Schlagzeile zu neuen Techniktrends und Zukunftsthemen kommt heute ohne die Schlagworte Artificial Intelligence, Deep Learning, Big Data oder eine Erwähnung von Unternehmen wie Facebook, Google (Alphabet) oder Amazon aus.
-Wir wollen Licht in den Begriffsdschungel bringen und zeigen, welche Themen und Forschungsfragen im regionalen und nationalen Umfeld eine Rolle spielen, wie auch „Small Data“ interessante Herausforderungen zu bieten hat und gerade der aktuelle Trend
-zur Digitalisierung ausgefeilte, spezifische Lösungen erfordert. Anhand von Beispielen aus der industriellen Bildverarbeitung sowie der Textverarbeitung wollen wir aktuelle Entwicklungen aufzeigen und deren Chancen und Risiken diskutieren.&lt;/p>
-&lt;p>&lt;em>mit Werner Pomwenger und Stefan Wegenkittl&lt;/em>&lt;/p></description></item><item><title>Information Extraction Engine for Sentiment-Topic Matching in Product Intelligence Applications</title><link>https://cornelia-ferner.github.io/de/publication/ferner17a/</link><pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate><guid>https://cornelia-ferner.github.io/de/publication/ferner17a/</guid><description/></item></channel></rss>
+as sequence classification problem. Since more flexible models from the class of Conditional Random Fields 
+were not competitive because of the limited amount of training data available, we propose using a 
+Hidden Markov Model instead and decouple the training of transition and emission probabilities. 
+The discriminating power of the Max Entropy approach is used for the latter. 
+Besides outperforming both standalone methods as well as more generic models such as linear-chain 
+Conditional Random Fields, the combined classifier is able to assign topics on subsentence level 
+although labeling in the training data is only available on sentence level.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Article Abstract&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Event: Wissensdurst Festival</title>
+      <link>https://cornelia-ferner.github.io/de/post/2019_wissensdurst/</link>
+      <pubDate>Wed, 01 May 2019 19:30:00 +0100</pubDate>
+      <guid>https://cornelia-ferner.github.io/de/post/2019_wissensdurst/</guid>
+      <description>&lt;h3 id=&#34;wissensdurst-festival&#34;&gt;Wissensdurst Festival&lt;/h3&gt;
+&lt;p&gt;Kaum eine Schlagzeile zu neuen Techniktrends und Zukunftsthemen kommt heute ohne die Schlagworte Artificial Intelligence, Deep Learning, Big Data oder eine Erwähnung von Unternehmen wie Facebook, Google (Alphabet) oder Amazon aus. 
+Wir wollen Licht in den Begriffsdschungel bringen und zeigen, welche Themen und Forschungsfragen im regionalen und nationalen Umfeld eine Rolle spielen, wie auch „Small Data“ interessante Herausforderungen zu bieten hat und gerade der aktuelle Trend 
+zur Digitalisierung ausgefeilte, spezifische Lösungen erfordert. Anhand von Beispielen aus der industriellen Bildverarbeitung sowie der Textverarbeitung wollen wir aktuelle Entwicklungen aufzeigen und deren Chancen und Risiken diskutieren.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;mit Werner Pomwenger und Stefan Wegenkittl&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Information Extraction Engine for Sentiment-Topic Matching in Product Intelligence Applications</title>
+      <link>https://cornelia-ferner.github.io/de/publication/ferner17a/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>https://cornelia-ferner.github.io/de/publication/ferner17a/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
