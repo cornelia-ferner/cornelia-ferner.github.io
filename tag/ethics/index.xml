@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ethics | Cornelia Ferner</title>
+    <link>https://cornelia-ferner.github.io/tag/ethics/</link>
+      <atom:link href="https://cornelia-ferner.github.io/tag/ethics/index.xml" rel="self" type="application/rss+xml" />
+    <description>ethics</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022</copyright><lastBuildDate>Tue, 22 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cornelia-ferner.github.io/media/icon_hu5335208573ec51f95dfe6e3211008f96_29473_512x512_fill_lanczos_center_3.png</url>
+      <title>ethics</title>
+      <link>https://cornelia-ferner.github.io/tag/ethics/</link>
+    </image>
+    
+    <item>
+      <title>(German only) Chatbots, Stereotype und künstliche Moral</title>
+      <link>https://cornelia-ferner.github.io/publication/ferner22c/</link>
+      <pubDate>Tue, 22 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://cornelia-ferner.github.io/publication/ferner22c/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

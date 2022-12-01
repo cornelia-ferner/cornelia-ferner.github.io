@@ -5,12 +5,20 @@
     <link>https://cornelia-ferner.github.io/author/cornelia-ferner/</link>
       <atom:link href="https://cornelia-ferner.github.io/author/cornelia-ferner/index.xml" rel="self" type="application/rss+xml" />
     <description>Cornelia Ferner</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022</copyright><lastBuildDate>Wed, 27 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022</copyright><lastBuildDate>Tue, 22 Nov 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://cornelia-ferner.github.io/author/cornelia-ferner/avatar_hue0fd54b5e36c8b95976b520689e652d4_398835_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Cornelia Ferner</title>
       <link>https://cornelia-ferner.github.io/author/cornelia-ferner/</link>
     </image>
+    
+    <item>
+      <title>(German only) Chatbots, Stereotype und künstliche Moral</title>
+      <link>https://cornelia-ferner.github.io/publication/ferner22c/</link>
+      <pubDate>Tue, 22 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://cornelia-ferner.github.io/publication/ferner22c/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Captioning Bosch: A Twitter Bot</title>
