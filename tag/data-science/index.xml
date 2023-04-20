@@ -5,22 +5,12 @@
     <link>https://cornelia-ferner.github.io/tag/data-science/</link>
       <atom:link href="https://cornelia-ferner.github.io/tag/data-science/index.xml" rel="self" type="application/rss+xml" />
     <description>data science</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023</copyright><lastBuildDate>Wed, 01 Feb 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023</copyright><lastBuildDate>Fri, 29 Jul 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://cornelia-ferner.github.io/media/icon_hu5335208573ec51f95dfe6e3211008f96_29473_512x512_fill_lanczos_center_3.png</url>
       <title>data science</title>
       <link>https://cornelia-ferner.github.io/tag/data-science/</link>
     </image>
-    
-    <item>
-      <title>Workshop at ICMbeyond 2023</title>
-      <link>https://cornelia-ferner.github.io/post/2023_icmbeyond/</link>
-      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>https://cornelia-ferner.github.io/post/2023_icmbeyond/</guid>
-      <description>&lt;p&gt;The conference Inverted Classroom and beyond has become an indispensable stimulus for the further development of the inverted classroom model and innovative didactics in the German-speaking world. It will take place on February 16 and 17, 2023 in Chur, Switzerland.&lt;/p&gt;
-&lt;p&gt;At the conference, I will offer a workshop on &amp;ldquo;possibilities and limits for using chatbots in teaching&amp;rdquo; together with my colleague Eva Lienbacher. This workshop is a transfer measure from the project &amp;ldquo;Schnatterbüchse - Chatbots in der Lehre&amp;rdquo; and is intended to generate feedback on the format on the one hand, and to capture opinions on the use of chatbots for teaching on the other.&lt;/p&gt;
-</description>
-    </item>
     
     <item>
       <title>Interactive Demo at IJCAI-ECAI 2022</title>
@@ -30,23 +20,6 @@
       <description>&lt;p&gt;IJCAI (International Conference on Artificial Intelligence) is the world&amp;rsquo;s leading conference for AI research and took place between July 23rd and 29th in Vienna this year. Where else but in Vienna would a special track titled &amp;ldquo;AI, arts and creativity&amp;rdquo; be better suited? It was within this track that I could present my Twitter Bot @CaptionBoschBot not only in a talk, but also during a live demo.&lt;/p&gt;
 &lt;p&gt;Under the motto &amp;ldquo;What does an AI know about arts?&amp;rdquo;, the Bot generates image descriptions for segments taken from Hieronymus Bosch&amp;rsquo;s painting &amp;ldquo;Garden of Earthly Delights&amp;rdquo;. The AI, however, was never trained on art and thus delivers seemingly naive interpretations of the painting. This should demonstrate the limits of AI systems in a playful way and put them to discussion.  The results can also be continuously observed on Twitter, where you can follow, retweet or leave comments on &lt;a href=&#34;https://twitter.com/CaptionBoschBot&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@CaptionBoschBot&lt;/a&gt;. The paper can be found in the IJCAI2022 Proceedings: &lt;a href=&#34;https://www.ijcai.org/proceedings/2022/0694.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.ijcai.org/proceedings/2022/0694.pdf&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;As part of the conference, Prof. Gerhard Widmer, Program Chair for the track &amp;ldquo;AI, Art and Creativity&amp;rdquo;, gave an impressive keynote with a live demonstration of a four-hand piano performance - with an AI as the accompanying musician.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Research Project &#34;Chatbots for Higher Education&#34; Starts</title>
-      <link>https://cornelia-ferner.github.io/post/2022_schnatterbuchse/</link>
-      <pubDate>Wed, 23 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>https://cornelia-ferner.github.io/post/2022_schnatterbuchse/</guid>
-      <description>&lt;h3 id=&#34;research-project-chatbots-for-higher-education-starts&#34;&gt;Research Project &amp;ldquo;Chatbots for Higher Education&amp;rdquo; Starts&lt;/h3&gt;
-&lt;p&gt;In March 2022, the interdisciplinary research project &amp;ldquo;Chatbots for Higher Education&amp;rdquo; starts, in which I and Prof. Dr. Eva Lienbacher (Business degree program) are exploring ways of applying chatbots for educational purposes.
-Chatbots can be applied to support with different teaching tasks, such as assisting with FAQs, mentoring or the simulation of expert interviews in professional settings, where the chatbot plays the role of customers, patients etc.&lt;/p&gt;
-&lt;p&gt;During a two year period, two proof-of-concepts and a use case study will be developed and implemented together with our students.
-The target audience primarily are students from four of our degree programs in engineering and business and social sciences.
-In transfer workshops, we will share our knowledge with a broader audience.
-The findings will also help in establishing new academic partnerhsips and acquire funding for new research projects.&lt;/p&gt;
-&lt;p&gt;The project is funded by SUAS&amp;rsquo;s &amp;ldquo;Zukunftsfonds&amp;rdquo;.&lt;/p&gt;
-&lt;p&gt;More information: &lt;a href=&#34;https://its.fh-salzburg.ac.at/forschung/forschungsprojekte/projektseite/schnatterbuechse/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ITS department&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

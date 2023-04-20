@@ -5,22 +5,12 @@
     <link>https://cornelia-ferner.github.io/de/tag/data-science/</link>
       <atom:link href="https://cornelia-ferner.github.io/de/tag/data-science/index.xml" rel="self" type="application/rss+xml" />
     <description>data science</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>de-at</language><copyright>© 2023</copyright><lastBuildDate>Wed, 01 Feb 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>de-at</language><copyright>© 2023</copyright><lastBuildDate>Fri, 29 Jul 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://cornelia-ferner.github.io/media/icon_hu5335208573ec51f95dfe6e3211008f96_29473_512x512_fill_lanczos_center_3.png</url>
       <title>data science</title>
       <link>https://cornelia-ferner.github.io/de/tag/data-science/</link>
     </image>
-    
-    <item>
-      <title>Workshop bei der ICMbeyond 2023</title>
-      <link>https://cornelia-ferner.github.io/de/post/2023_icmbeyond/</link>
-      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>https://cornelia-ferner.github.io/de/post/2023_icmbeyond/</guid>
-      <description>&lt;p&gt;Die Konferenz Inverted Classroom and beyond ist mittlerweile ein  nicht wegzudenkender Impulsgeber für die Weiterentwicklung des Inverted Classrooms Modells sowie von innovativer Hochschuldidaktik im deutschen Sprachraum. Sie findet am 16. und 17. Februar 2023 in Chur in der Schweiz statt.&lt;/p&gt;
-&lt;p&gt;In diesem Rahmen biete ich gemeinsam mit meiner Kollegin Eva Lienbacher einen Workshop zum Thema &amp;ldquo;Möglichkeiten und Grenzen zum Einsatz von Chatbots in der Lehre&amp;rdquo; ab. Dieser Workshop ist eine Transfermaßnahme aus dem Zukunftsfondsprojekt &amp;ldquo;Schnatterbüchse - Chatbots in der Lehre&amp;rdquo; und soll einerseits Feedback zum Format generieren, andererseits Stimmen und Meinungen zum Einsatz von Chatbots im didaktischen Bereich einfangen.&lt;/p&gt;
-</description>
-    </item>
     
     <item>
       <title>Interaktive Demo bei der IJCAI-ECAI 2022</title>
@@ -30,22 +20,6 @@
       <description>&lt;p&gt;Die IJCAI  (International Conference on Artificial Intelligence) ist die führende  internationale Konferenz für KI-Forschung und fand dieses Jahr von 23.  bis 29. Juli in Wien statt. Passend zur Musikstatt Wien wurde ein  eigener Track dem Thema „KI, Kunst und Kreativität“ gewidmet, in dessen  Rahmen ich meinen Twitter Bot @CaptionBoschBot präsentieren  konnte.&lt;/p&gt;
 &lt;p&gt;Der Twitter Bot steht under dem Motto „Was versteht eine KI von Kunst?“ und erzeugt Bildbeschreibungen zu Ausschnitten aus Hieronymus Boschs Gemälde „Garten der Lüste“. Das besondere dabei ist, dass die KI nicht  auf Kunstwerke trainiert wurde und deswegen scheinbar naive Interpretationen des Gezeigten liefert. Dadurch sollen auf spielerische  Weise auch die Grenzen solcher Systeme aufgezeigt und zur Diskussion  gestellt werden. Die Ergebnisse sind auch kontinuierlich auf Twitter zu  beobachten, wo Sie dem &lt;a href=&#34;https://twitter.com/CaptionBoschBot&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@CaptionBoschBot&lt;/a&gt; folgen, retweeten oder Kommentare hinterlassen können. Das Paper finden Sie in den IJCAI2022 Proceedings: &lt;a href=&#34;https://www.ijcai.org/proceedings/2022/0694.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.ijcai.org/proceedings/2022/0694.pdf&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Im Rahmen der Konferenz hielt Prof. Gerhard Widmer, Program Chair für den  Track „KI, Kunst und Kreativität“, eine beeindruckende Keynote mit einer Live-Demonstration eines vierhändigen Klavierspiels – mit einer KI als  begleitendem Musiker.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Forschungsprojekt &#34;Schnatterbüchse - Chatbots in der Lehre&#34; startet</title>
-      <link>https://cornelia-ferner.github.io/de/post/2022_schnatterbuchse/</link>
-      <pubDate>Wed, 23 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>https://cornelia-ferner.github.io/de/post/2022_schnatterbuchse/</guid>
-      <description>&lt;p&gt;Im März 2022 startet das interdisziplinäre Forschungsprojekt “Schnatterbüchse - Chatbots in der Lehre”, in dem ich mit FH-Prof. Dr. Eva Lienbacher (Studiengang Betriebswirtschaft) der Frage nachgehe, wie Chatbots in der Lehre sinnvoll eingesetzt werden können. 
-Grundsätzlich können Chatbots in der Lehre unterschiedliche Aufgaben übernehmen, wie bspw. die Beantwortung häufiger Fragen, Mentoring-Aktivitäten oder auch die Simulation von Expert*innen als Gegenüber in (beruflichen) Situationen, in denen der Chatbot z.B. die Rolle von Kund*innen, Patient*innen etc. einnimmt.&lt;/p&gt;
-&lt;p&gt;Gemeinsam mit Studierenden werden während der Projektlaufzeit von zwei Jahren zwei Demonstratoren und eine Fallstudie für den Einsatz in der Lehre entwickelt und erprobt. 
-Das interdisziplinäre Projekt adressiert im ersten Durchlauf als primäre Zielgruppe Studierende aus vier Studiengängen der Ingenieurwissenschaft sowie der Sozial- und Wirtschaftswissenschaften. 
-Das gesammelte Know-how soll durch Workshops einem breiteren Zielpublikum näher gebracht werden. 
-Darüber hinaus sollen die gesammelten Erkenntnisse als Grundlage für neue Forschungsprojekte und Hochschulpartnerschaften dienen.&lt;/p&gt;
-&lt;p&gt;Das Projekt wird vom Zukunftsfonds der FH Salzburg gefördert.&lt;/p&gt;
-&lt;p&gt;Weitere Informationen: &lt;a href=&#34;https://its.fh-salzburg.ac.at/forschung/forschungsprojekte/projektseite/schnatterbuechse/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Studiengang ITS&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

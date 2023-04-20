@@ -5,12 +5,24 @@
     <link>https://cornelia-ferner.github.io/de/</link>
       <atom:link href="https://cornelia-ferner.github.io/de/index.xml" rel="self" type="application/rss+xml" />
     <description>Cornelia Ferner</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>de-at</language><copyright>© 2023</copyright><lastBuildDate>Wed, 01 Feb 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>de-at</language><copyright>© 2023</copyright><lastBuildDate>Tue, 18 Apr 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://cornelia-ferner.github.io/media/icon_hu5335208573ec51f95dfe6e3211008f96_29473_512x512_fill_lanczos_center_3.png</url>
       <title>Cornelia Ferner</title>
       <link>https://cornelia-ferner.github.io/de/</link>
     </image>
+    
+    <item>
+      <title>Öffentlicher Vortrag: ChatGPT &amp; Co. verstehen</title>
+      <link>https://cornelia-ferner.github.io/de/post/2023_bildungswerk_twg/</link>
+      <pubDate>Tue, 18 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://cornelia-ferner.github.io/de/post/2023_bildungswerk_twg/</guid>
+      <description>&lt;p&gt;Künstliche Intelligenz und ChatGPT sind derzeit in aller Munde.  Im Vortrag stelle ich die historische Entwicklung von Chatbots sowie den aktuellen Stand vor. Ich gehe auf den technischen Hintergrund ein und diskutiere mit den Anwesenden die Implikationen von Chatbots und KI auf die Gesellschaft. Außerdem stelle ich Anwendungsfälle für die Verwendung von ChatGPT und ähnlichen KI-Tools im (Berufs-)Alltag vor.&lt;/p&gt;
+&lt;p&gt;📆 21. April 2023&lt;/p&gt;
+&lt;p&gt;🕐 19:00 Uhr&lt;/p&gt;
+&lt;p&gt;🏛️ Haus für Wirtschaft, Arbeit &amp;amp; Bildung, Tamsweg&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Workshop bei der ICMbeyond 2023</title>
