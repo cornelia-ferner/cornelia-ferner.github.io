@@ -5,12 +5,22 @@
     <link>https://cornelia-ferner.github.io/tag/chatbot/</link>
       <atom:link href="https://cornelia-ferner.github.io/tag/chatbot/index.xml" rel="self" type="application/rss+xml" />
     <description>chatbot</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023</copyright><lastBuildDate>Fri, 29 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023</copyright><lastBuildDate>Wed, 01 Feb 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://cornelia-ferner.github.io/media/icon_hu5335208573ec51f95dfe6e3211008f96_29473_512x512_fill_lanczos_center_3.png</url>
       <title>chatbot</title>
       <link>https://cornelia-ferner.github.io/tag/chatbot/</link>
     </image>
+    
+    <item>
+      <title>Workshop at ICMbeyond 2023</title>
+      <link>https://cornelia-ferner.github.io/post/2023_icmbeyond/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://cornelia-ferner.github.io/post/2023_icmbeyond/</guid>
+      <description>&lt;p&gt;The conference Inverted Classroom and beyond has become an indispensable stimulus for the further development of the inverted classroom model and innovative didactics in the German-speaking world. It will take place on February 16 and 17, 2023 in Chur, Switzerland.&lt;/p&gt;
+&lt;p&gt;At the conference, I will offer a workshop on &amp;ldquo;possibilities and limits for using chatbots in teaching&amp;rdquo; together with my colleague Eva Lienbacher. This workshop is a transfer measure from the project &amp;ldquo;Schnatterbüchse - Chatbots in der Lehre&amp;rdquo; and is intended to generate feedback on the format on the one hand, and to capture opinions on the use of chatbots for teaching on the other.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Interactive Demo at IJCAI-ECAI 2022</title>

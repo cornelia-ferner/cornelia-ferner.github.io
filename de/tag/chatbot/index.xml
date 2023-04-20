@@ -5,12 +5,22 @@
     <link>https://cornelia-ferner.github.io/de/tag/chatbot/</link>
       <atom:link href="https://cornelia-ferner.github.io/de/tag/chatbot/index.xml" rel="self" type="application/rss+xml" />
     <description>chatbot</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>de-at</language><copyright>© 2023</copyright><lastBuildDate>Fri, 29 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>de-at</language><copyright>© 2023</copyright><lastBuildDate>Wed, 01 Feb 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://cornelia-ferner.github.io/media/icon_hu5335208573ec51f95dfe6e3211008f96_29473_512x512_fill_lanczos_center_3.png</url>
       <title>chatbot</title>
       <link>https://cornelia-ferner.github.io/de/tag/chatbot/</link>
     </image>
+    
+    <item>
+      <title>Workshop bei der ICMbeyond 2023</title>
+      <link>https://cornelia-ferner.github.io/de/post/2023_icmbeyond/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://cornelia-ferner.github.io/de/post/2023_icmbeyond/</guid>
+      <description>&lt;p&gt;Die Konferenz Inverted Classroom and beyond ist mittlerweile ein  nicht wegzudenkender Impulsgeber für die Weiterentwicklung des Inverted Classrooms Modells sowie von innovativer Hochschuldidaktik im deutschen Sprachraum. Sie findet am 16. und 17. Februar 2023 in Chur in der Schweiz statt.&lt;/p&gt;
+&lt;p&gt;In diesem Rahmen biete ich gemeinsam mit meiner Kollegin Eva Lienbacher einen Workshop zum Thema &amp;ldquo;Möglichkeiten und Grenzen zum Einsatz von Chatbots in der Lehre&amp;rdquo; ab. Dieser Workshop ist eine Transfermaßnahme aus dem Zukunftsfondsprojekt &amp;ldquo;Schnatterbüchse - Chatbots in der Lehre&amp;rdquo; und soll einerseits Feedback zum Format generieren, andererseits Stimmen und Meinungen zum Einsatz von Chatbots im didaktischen Bereich einfangen.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Interaktive Demo bei der IJCAI-ECAI 2022</title>
