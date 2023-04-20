@@ -5,7 +5,7 @@
     <link>https://cornelia-ferner.github.io/tag/natural-language-processing/</link>
       <atom:link href="https://cornelia-ferner.github.io/tag/natural-language-processing/index.xml" rel="self" type="application/rss+xml" />
     <description>natural language processing</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022</copyright><lastBuildDate>Tue, 22 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023</copyright><lastBuildDate>Tue, 22 Nov 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://cornelia-ferner.github.io/media/icon_hu5335208573ec51f95dfe6e3211008f96_29473_512x512_fill_lanczos_center_3.png</url>
       <title>natural language processing</title>
@@ -18,6 +18,17 @@
       <pubDate>Tue, 22 Nov 2022 00:00:00 +0000</pubDate>
       <guid>https://cornelia-ferner.github.io/publication/ferner22c/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Interactive Demo at IJCAI-ECAI 2022</title>
+      <link>https://cornelia-ferner.github.io/post/2022_ijcai/</link>
+      <pubDate>Fri, 29 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://cornelia-ferner.github.io/post/2022_ijcai/</guid>
+      <description>&lt;p&gt;IJCAI (International Conference on Artificial Intelligence) is the world&amp;rsquo;s leading conference for AI research and took place between July 23rd and 29th in Vienna this year. Where else but in Vienna would a special track titled &amp;ldquo;AI, arts and creativity&amp;rdquo; be better suited? It was within this track that I could present my Twitter Bot @CaptionBoschBot not only in a talk, but also during a live demo.&lt;/p&gt;
+&lt;p&gt;Under the motto &amp;ldquo;What does an AI know about arts?&amp;rdquo;, the Bot generates image descriptions for segments taken from Hieronymus Bosch&amp;rsquo;s painting &amp;ldquo;Garden of Earthly Delights&amp;rdquo;. The AI, however, was never trained on art and thus delivers seemingly naive interpretations of the painting. This should demonstrate the limits of AI systems in a playful way and put them to discussion.  The results can also be continuously observed on Twitter, where you can follow, retweet or leave comments on &lt;a href=&#34;https://twitter.com/CaptionBoschBot&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@CaptionBoschBot&lt;/a&gt;. The paper can be found in the IJCAI2022 Proceedings: &lt;a href=&#34;https://www.ijcai.org/proceedings/2022/0694.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.ijcai.org/proceedings/2022/0694.pdf&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;As part of the conference, Prof. Gerhard Widmer, Program Chair for the track &amp;ldquo;AI, Art and Creativity&amp;rdquo;, gave an impressive keynote with a live demonstration of a four-hand piano performance - with an AI as the accompanying musician.&lt;/p&gt;
+</description>
     </item>
     
     <item>

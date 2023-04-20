@@ -197,6 +197,58 @@
                 href="https://cornelia-ferner.github.io/de/tags/"
                 />
   </url><url>
+    <loc>https://cornelia-ferner.github.io/de/post/</loc>
+    <lastmod>2022-07-29T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cornelia-ferner.github.io/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://cornelia-ferner.github.io/de/post/"
+                />
+  </url><url>
+    <loc>https://cornelia-ferner.github.io/de/tag/chatbot/</loc>
+    <lastmod>2022-07-29T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cornelia-ferner.github.io/tag/chatbot/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://cornelia-ferner.github.io/de/tag/chatbot/"
+                />
+  </url><url>
+    <loc>https://cornelia-ferner.github.io/de/tag/data-science/</loc>
+    <lastmod>2022-07-29T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cornelia-ferner.github.io/tag/data-science/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://cornelia-ferner.github.io/de/tag/data-science/"
+                />
+  </url><url>
+    <loc>https://cornelia-ferner.github.io/de/post/2022_ijcai/</loc>
+    <lastmod>2022-07-29T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cornelia-ferner.github.io/post/2022_ijcai/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://cornelia-ferner.github.io/de/post/2022_ijcai/"
+                />
+  </url><url>
     <loc>https://cornelia-ferner.github.io/de/publication-type/1/</loc>
     <lastmod>2022-07-27T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -275,32 +327,6 @@
                 href="https://cornelia-ferner.github.io/de/tag/artificial-intelligence/"
                 />
   </url><url>
-    <loc>https://cornelia-ferner.github.io/de/post/</loc>
-    <lastmod>2022-03-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://cornelia-ferner.github.io/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://cornelia-ferner.github.io/de/post/"
-                />
-  </url><url>
-    <loc>https://cornelia-ferner.github.io/de/tag/chatbot/</loc>
-    <lastmod>2022-03-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://cornelia-ferner.github.io/tag/chatbot/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://cornelia-ferner.github.io/de/tag/chatbot/"
-                />
-  </url><url>
     <loc>https://cornelia-ferner.github.io/de/post/2022_boschbot/</loc>
     <lastmod>2022-03-01T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -312,19 +338,6 @@
                 rel="alternate"
                 hreflang="de"
                 href="https://cornelia-ferner.github.io/de/post/2022_boschbot/"
-                />
-  </url><url>
-    <loc>https://cornelia-ferner.github.io/de/tag/data-science/</loc>
-    <lastmod>2022-02-23T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://cornelia-ferner.github.io/tag/data-science/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://cornelia-ferner.github.io/de/tag/data-science/"
                 />
   </url><url>
     <loc>https://cornelia-ferner.github.io/de/post/2022_schnatterbuchse/</loc>
