@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://cornelia-ferner.github.io/post/</loc>
-    <lastmod>2023-02-01T00:00:00+00:00</lastmod>
+    <lastmod>2023-04-24T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -16,7 +16,7 @@
                 />
   </url><url>
     <loc>https://cornelia-ferner.github.io/tag/chatbot/</loc>
-    <lastmod>2023-02-01T00:00:00+00:00</lastmod>
+    <lastmod>2023-04-24T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -29,7 +29,7 @@
                 />
   </url><url>
     <loc>https://cornelia-ferner.github.io/</loc>
-    <lastmod>2023-02-01T00:00:00+00:00</lastmod>
+    <lastmod>2023-04-24T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -39,6 +39,45 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://cornelia-ferner.github.io/"
+                />
+  </url><url>
+    <loc>https://cornelia-ferner.github.io/tag/language-models/</loc>
+    <lastmod>2023-04-24T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://cornelia-ferner.github.io/de/tag/language-models/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cornelia-ferner.github.io/tag/language-models/"
+                />
+  </url><url>
+    <loc>https://cornelia-ferner.github.io/tags/</loc>
+    <lastmod>2023-04-24T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://cornelia-ferner.github.io/de/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cornelia-ferner.github.io/tags/"
+                />
+  </url><url>
+    <loc>https://cornelia-ferner.github.io/post/2023_bildungswerk_twg/</loc>
+    <lastmod>2023-04-24T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://cornelia-ferner.github.io/de/post/2023_bildungswerk_twg/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cornelia-ferner.github.io/post/2023_bildungswerk_twg/"
                 />
   </url><url>
     <loc>https://cornelia-ferner.github.io/tag/didactics/</loc>
@@ -52,19 +91,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://cornelia-ferner.github.io/tag/didactics/"
-                />
-  </url><url>
-    <loc>https://cornelia-ferner.github.io/tags/</loc>
-    <lastmod>2023-02-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://cornelia-ferner.github.io/de/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://cornelia-ferner.github.io/tags/"
                 />
   </url><url>
     <loc>https://cornelia-ferner.github.io/post/2023_icmbeyond/</loc>
@@ -169,19 +195,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://cornelia-ferner.github.io/tag/ethics/"
-                />
-  </url><url>
-    <loc>https://cornelia-ferner.github.io/tag/language-models/</loc>
-    <lastmod>2022-11-22T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://cornelia-ferner.github.io/de/tag/language-models/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://cornelia-ferner.github.io/tag/language-models/"
                 />
   </url><url>
     <loc>https://cornelia-ferner.github.io/tag/natural-language-processing/</loc>

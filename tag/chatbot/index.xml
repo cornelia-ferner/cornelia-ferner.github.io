@@ -5,12 +5,24 @@
     <link>https://cornelia-ferner.github.io/tag/chatbot/</link>
       <atom:link href="https://cornelia-ferner.github.io/tag/chatbot/index.xml" rel="self" type="application/rss+xml" />
     <description>chatbot</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023</copyright><lastBuildDate>Wed, 01 Feb 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023</copyright><lastBuildDate>Tue, 18 Apr 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://cornelia-ferner.github.io/media/icon_hu5335208573ec51f95dfe6e3211008f96_29473_512x512_fill_lanczos_center_3.png</url>
       <title>chatbot</title>
       <link>https://cornelia-ferner.github.io/tag/chatbot/</link>
     </image>
+    
+    <item>
+      <title>Öffentlicher Vortrag: ChatGPT &amp; Co. verstehen</title>
+      <link>https://cornelia-ferner.github.io/post/2023_bildungswerk_twg/</link>
+      <pubDate>Tue, 18 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://cornelia-ferner.github.io/post/2023_bildungswerk_twg/</guid>
+      <description>&lt;p&gt;There is no way getting around Artificial Intelligence and ChatGPT these days. The Bildungswerk Salzburg/Tamsweg, an institution for adult education, invited me to give a talk about the evolution of chatbots from Eliza to ChatGPT. I will talk about the technical background and discuss the implications of chatbots and AI for the society. For a better understanding of the capabilities of the current models, I will present use cases for ChatGPT and other tools for the job or everyday life.&lt;/p&gt;
+&lt;p&gt;The talk will be held in German.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;📰 The local newspaper Bezirksblätter Lungau have &lt;a href=&#34;https://www.meinbezirk.at/lungau/c-lokales/bildungswerk-bringt-mit-expertin-brandaktuelles-thema-in-den-lungau_a6001986&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;an article&lt;/a&gt; about the event.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Workshop at ICMbeyond 2023</title>
