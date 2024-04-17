@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://cornelia-ferner.github.io/de/post/</loc>
-    <lastmod>2023-04-24T00:00:00+00:00</lastmod>
+    <lastmod>2024-04-16T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -16,7 +16,7 @@
                 />
   </url><url>
     <loc>https://cornelia-ferner.github.io/de/tag/chatbot/</loc>
-    <lastmod>2023-04-24T00:00:00+00:00</lastmod>
+    <lastmod>2024-04-16T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -29,7 +29,7 @@
                 />
   </url><url>
     <loc>https://cornelia-ferner.github.io/de/</loc>
-    <lastmod>2023-04-24T00:00:00+00:00</lastmod>
+    <lastmod>2024-04-16T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -42,7 +42,7 @@
                 />
   </url><url>
     <loc>https://cornelia-ferner.github.io/de/tag/language-models/</loc>
-    <lastmod>2023-04-24T00:00:00+00:00</lastmod>
+    <lastmod>2024-04-16T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -55,7 +55,7 @@
                 />
   </url><url>
     <loc>https://cornelia-ferner.github.io/de/tags/</loc>
-    <lastmod>2023-04-24T00:00:00+00:00</lastmod>
+    <lastmod>2024-04-16T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -65,6 +65,162 @@
                 rel="alternate"
                 hreflang="de"
                 href="https://cornelia-ferner.github.io/de/tags/"
+                />
+  </url><url>
+    <loc>https://cornelia-ferner.github.io/de/post/2024_bildungswerk_br/</loc>
+    <lastmod>2024-04-16T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cornelia-ferner.github.io/post/2024_bildungswerk_br/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://cornelia-ferner.github.io/de/post/2024_bildungswerk_br/"
+                />
+  </url><url>
+    <loc>https://cornelia-ferner.github.io/de/publication-type/6/</loc>
+    <lastmod>2023-12-02T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cornelia-ferner.github.io/publication-type/6/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://cornelia-ferner.github.io/de/publication-type/6/"
+                />
+  </url><url>
+    <loc>https://cornelia-ferner.github.io/de/authors/</loc>
+    <lastmod>2023-12-02T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cornelia-ferner.github.io/authors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://cornelia-ferner.github.io/de/authors/"
+                />
+  </url><url>
+    <loc>https://cornelia-ferner.github.io/de/categories/</loc>
+    <lastmod>2023-12-02T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cornelia-ferner.github.io/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://cornelia-ferner.github.io/de/categories/"
+                />
+  </url><url>
+    <loc>https://cornelia-ferner.github.io/de/publication/ferner23a/</loc>
+    <lastmod>2023-12-02T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cornelia-ferner.github.io/publication/ferner23a/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://cornelia-ferner.github.io/de/publication/ferner23a/"
+                />
+  </url><url>
+    <loc>https://cornelia-ferner.github.io/de/author/cornelia-ferner/</loc>
+    <lastmod>2023-12-02T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cornelia-ferner.github.io/author/cornelia-ferner/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://cornelia-ferner.github.io/de/author/cornelia-ferner/"
+                />
+  </url><url>
+    <loc>https://cornelia-ferner.github.io/de/author/eva-lienbacher/</loc>
+    <lastmod>2023-12-02T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cornelia-ferner.github.io/author/eva-lienbacher/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://cornelia-ferner.github.io/de/author/eva-lienbacher/"
+                />
+  </url><url>
+    <loc>https://cornelia-ferner.github.io/de/tag/natural-language-processing/</loc>
+    <lastmod>2023-12-02T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cornelia-ferner.github.io/tag/natural-language-processing/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://cornelia-ferner.github.io/de/tag/natural-language-processing/"
+                />
+  </url><url>
+    <loc>https://cornelia-ferner.github.io/de/category/natural-language-processing/</loc>
+    <lastmod>2023-12-02T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cornelia-ferner.github.io/category/natural-language-processing/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://cornelia-ferner.github.io/de/category/natural-language-processing/"
+                />
+  </url><url>
+    <loc>https://cornelia-ferner.github.io/de/publication_types/</loc>
+    <lastmod>2023-12-02T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cornelia-ferner.github.io/publication_types/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://cornelia-ferner.github.io/de/publication_types/"
+                />
+  </url><url>
+    <loc>https://cornelia-ferner.github.io/de/publication/</loc>
+    <lastmod>2023-12-02T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cornelia-ferner.github.io/publication/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://cornelia-ferner.github.io/de/publication/"
+                />
+  </url><url>
+    <loc>https://cornelia-ferner.github.io/de/category/research/</loc>
+    <lastmod>2023-12-02T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cornelia-ferner.github.io/category/research/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://cornelia-ferner.github.io/de/category/research/"
                 />
   </url><url>
     <loc>https://cornelia-ferner.github.io/de/post/2023_bildungswerk_twg/</loc>
@@ -119,32 +275,6 @@
                 href="https://cornelia-ferner.github.io/de/publication-type/4/"
                 />
   </url><url>
-    <loc>https://cornelia-ferner.github.io/de/authors/</loc>
-    <lastmod>2022-11-22T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://cornelia-ferner.github.io/authors/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://cornelia-ferner.github.io/de/authors/"
-                />
-  </url><url>
-    <loc>https://cornelia-ferner.github.io/de/categories/</loc>
-    <lastmod>2022-11-22T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://cornelia-ferner.github.io/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://cornelia-ferner.github.io/de/categories/"
-                />
-  </url><url>
     <loc>https://cornelia-ferner.github.io/de/publication/ferner22c/</loc>
     <lastmod>2022-11-22T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -156,19 +286,6 @@
                 rel="alternate"
                 hreflang="de"
                 href="https://cornelia-ferner.github.io/de/publication/ferner22c/"
-                />
-  </url><url>
-    <loc>https://cornelia-ferner.github.io/de/author/cornelia-ferner/</loc>
-    <lastmod>2022-11-22T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://cornelia-ferner.github.io/author/cornelia-ferner/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://cornelia-ferner.github.io/de/author/cornelia-ferner/"
                 />
   </url><url>
     <loc>https://cornelia-ferner.github.io/de/tag/deep-learning/</loc>
@@ -195,71 +312,6 @@
                 rel="alternate"
                 hreflang="de"
                 href="https://cornelia-ferner.github.io/de/tag/ethics/"
-                />
-  </url><url>
-    <loc>https://cornelia-ferner.github.io/de/tag/natural-language-processing/</loc>
-    <lastmod>2022-11-22T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://cornelia-ferner.github.io/tag/natural-language-processing/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://cornelia-ferner.github.io/de/tag/natural-language-processing/"
-                />
-  </url><url>
-    <loc>https://cornelia-ferner.github.io/de/category/natural-language-processing/</loc>
-    <lastmod>2022-11-22T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://cornelia-ferner.github.io/category/natural-language-processing/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://cornelia-ferner.github.io/de/category/natural-language-processing/"
-                />
-  </url><url>
-    <loc>https://cornelia-ferner.github.io/de/publication_types/</loc>
-    <lastmod>2022-11-22T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://cornelia-ferner.github.io/publication_types/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://cornelia-ferner.github.io/de/publication_types/"
-                />
-  </url><url>
-    <loc>https://cornelia-ferner.github.io/de/publication/</loc>
-    <lastmod>2022-11-22T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://cornelia-ferner.github.io/publication/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://cornelia-ferner.github.io/de/publication/"
-                />
-  </url><url>
-    <loc>https://cornelia-ferner.github.io/de/category/research/</loc>
-    <lastmod>2022-11-22T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://cornelia-ferner.github.io/category/research/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://cornelia-ferner.github.io/de/category/research/"
                 />
   </url><url>
     <loc>https://cornelia-ferner.github.io/de/author/stefan-wegenkittl/</loc>
