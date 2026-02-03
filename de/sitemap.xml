@@ -2,8 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://cornelia-ferner.github.io/de/tag/artificial-intelligence/</loc>
+    <lastmod>2025-03-11T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cornelia-ferner.github.io/tag/artificial-intelligence/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://cornelia-ferner.github.io/de/tag/artificial-intelligence/"
+                />
+  </url><url>
     <loc>https://cornelia-ferner.github.io/de/post/</loc>
-    <lastmod>2024-04-16T00:00:00+00:00</lastmod>
+    <lastmod>2025-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -16,7 +29,7 @@
                 />
   </url><url>
     <loc>https://cornelia-ferner.github.io/de/tag/chatbot/</loc>
-    <lastmod>2024-04-16T00:00:00+00:00</lastmod>
+    <lastmod>2025-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -29,7 +42,7 @@
                 />
   </url><url>
     <loc>https://cornelia-ferner.github.io/de/</loc>
-    <lastmod>2024-04-16T00:00:00+00:00</lastmod>
+    <lastmod>2025-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -42,7 +55,7 @@
                 />
   </url><url>
     <loc>https://cornelia-ferner.github.io/de/tag/language-models/</loc>
-    <lastmod>2024-04-16T00:00:00+00:00</lastmod>
+    <lastmod>2025-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -55,7 +68,7 @@
                 />
   </url><url>
     <loc>https://cornelia-ferner.github.io/de/tags/</loc>
-    <lastmod>2024-04-16T00:00:00+00:00</lastmod>
+    <lastmod>2025-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -67,18 +80,8 @@
                 href="https://cornelia-ferner.github.io/de/tags/"
                 />
   </url><url>
-    <loc>https://cornelia-ferner.github.io/de/post/2024_bildungswerk_br/</loc>
-    <lastmod>2024-04-16T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://cornelia-ferner.github.io/post/2024_bildungswerk_br/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://cornelia-ferner.github.io/de/post/2024_bildungswerk_br/"
-                />
+    <loc>https://cornelia-ferner.github.io/de/post/2024_2026_chatgpt_co/</loc>
+    <lastmod>2025-03-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://cornelia-ferner.github.io/de/publication-type/6/</loc>
     <lastmod>2023-12-02T00:00:00+00:00</lastmod>
@@ -403,19 +406,6 @@
                 rel="alternate"
                 hreflang="de"
                 href="https://cornelia-ferner.github.io/de/publication/ferner22a/"
-                />
-  </url><url>
-    <loc>https://cornelia-ferner.github.io/de/tag/artificial-intelligence/</loc>
-    <lastmod>2022-03-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://cornelia-ferner.github.io/tag/artificial-intelligence/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://cornelia-ferner.github.io/de/tag/artificial-intelligence/"
                 />
   </url><url>
     <loc>https://cornelia-ferner.github.io/de/post/2022_boschbot/</loc>
